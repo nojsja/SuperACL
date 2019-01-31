@@ -24,4 +24,7 @@
 本规则可以帮助您  
 - [x] 代理在中国大陆被封锁的网站 (eg. Google、 Facebook、 Twitter)
 - [x] 代理在中国大陆访问速度较慢或不稳定的网站 (eg. GitHub、 Amazon AWS)
-- [x] 代理在中国大陆有访问限制的网站 (eg. Steam商店锁区、 Xbox Live锁区)
+- [x] 代理在中国大陆有访问限制的网站 (eg. Steam Powered、 Xbox Live)
+- [x] 代理其它在中国大陆不能完整访问的网站 (eg. Bing、 Wikipedia、 WordPress)
+> 但同时也请您注意：   1. 我们不会主动去屏蔽广告域名，所以本规则不具有主动屏蔽广告的功能  
+2.我们的项目不基于`GFWList`或者`ChinaList`，所以可能会有疏漏

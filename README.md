@@ -50,4 +50,6 @@
 
 ## 版权
 * Copyright &copy; 2016-2019 NciYuan! Team.
-* Copyright &copy; 2019 MingZheng 'Windelight' Guan. All Rights Reserved.
+* Copyright &copy; 2019 MingZheng 'Windelight' Guan. All Rights Reserved.  
+
+** MIT License ***

@@ -42,3 +42,6 @@
 文件内容:
 - inchina.acl 适用于出国代理  
   - 实时更新地址: https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl
+- inforeign.acl 适用于回国代理
+  - 实时更新地址: https://raw.githubusercontent.com/Windelight/SuperACL/master/inforeign.acl
+

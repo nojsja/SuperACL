@@ -24,3 +24,4 @@
 本规则可以帮助您  
 - [x] 代理在中国大陆被封锁的网站 (eg. Google、 Facebook、 Twitter)
 - [x] 代理在中国大陆访问速度较慢或不稳定的网站 (eg. GitHub、 Amazon AWS)
+- [x] 代理在中国大陆有访问限制的网站 (eg. Steam商店锁区、 Xbox Live锁区)

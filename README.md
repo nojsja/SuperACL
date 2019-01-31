@@ -22,4 +22,5 @@
  * 海外回国模式(代理范围为中国大陆地区的网站)  
 
 本规则可以帮助您  
-- [x] 代理在中国大陆被封锁的网站 (eg. Google、Facebook、Twitter)
+- [x] 代理在中国大陆被封锁的网站 (eg. Google、 Facebook、 Twitter)
+- [x] 代理在中国大陆访问速度较慢或不稳定的网站 (eg. GitHub、 Amazon AWS)

@@ -45,5 +45,9 @@
   - 实时更新地址: https://raw.githubusercontent.com/Windelight/SuperACL/master/inforeign.acl 
   
 不会操作或使用吗？建议您先移步本项目 [Wiki](https://github.com/Windelight/SuperACL/wiki) 来获得更多帮助哦!  
-遇到了使用问题？欢迎您移步到本项目 [Issue](https://github.com/Windelight/SuperACL/issues) 想我们提交反馈哦!
+遇到了使用问题？欢迎您移步到本项目 [Issue](https://github.com/Windelight/SuperACL/issues) 想我们提交反馈哦! 
 
+
+## 版权
+* Copyright &copy; 2016-2019 NciYuan! Team.
+* Copyright &copy; 2019 MingZheng 'Windelight' Guan. All Rights Reserved.

@@ -29,6 +29,16 @@
 - [ ] 回国模式则反之亦然，欢迎海外华人使用哦 (*σ´∀`)σ
 > 但同时也请您注意：  
 > 1. 我们不会主动去屏蔽广告域名，所以本规则不具有主动屏蔽广告的功能  
-> 2. 我们的项目不基于`GFWList`或者`ChinaList`，所以可能会有疏漏
+> 2. 我们的项目不基于`GFWList`以及`ChinaList`，所以可能会有疏漏
 
 ## 使用
+适用的软件平台:
+- [x] Shadowsocks for Android
+- [x] Shadowsocks-RSS for Android  
+- [ ] ~~ Shadowsocks-Qt ~~
+- [ ] ~~ Shadowsocks-Libev ~~
+
+
+文件内容:
+- inchina.acl 适用于出国代理  
+  - 实时更新地址: https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl

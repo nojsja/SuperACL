@@ -32,12 +32,11 @@
 > 2. 我们的项目不基于`GFWList`以及`ChinaList`，所以可能会有疏漏
 
 ## 使用
-适用的软件平台:
+适用的软件平台(已测试):
 - [x] Shadowsocks for Android
 - [x] Shadowsocks-RSS for Android  
 - [ ] ~~Shadowsocks-Qt~~
 - [ ] ~~Shadowsocks-Libev~~
-
 
 文件内容:
 - inchina.acl 适用于出国代理  

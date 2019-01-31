@@ -35,8 +35,8 @@
 适用的软件平台:
 - [x] Shadowsocks for Android
 - [x] Shadowsocks-RSS for Android  
-- [ ] ~~ Shadowsocks-Qt ~~
-- [ ] ~~ Shadowsocks-Libev ~~
+- [ ] ~~Shadowsocks-Qt~~
+- [ ] ~~Shadowsocks-Libev~~
 
 
 文件内容:

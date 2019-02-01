@@ -11,7 +11,7 @@
 
 ```
 [![HomePAGE](https://img.shields.io/badge/Home-Page-blue.svg?style=flat)](https://powerfulweb.nciyuan.net)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/License.md)
 [![VersionName](https://img.shields.io/badge/Version-108Alpha1Pre1-orange.svg?style=flat)](https://github.com/Windelight/SuperACL/tree/master)
 [![ChangeLOG](https://img.shields.io/badge/Change-Log-red.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/ChangeLog.md)
 

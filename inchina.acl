@@ -19,7 +19,7 @@
 #-–-–-–-–-–-–-–-–+
 [bypass_all]
 [proxy_list]
-#Google
+# Google
 (^|\.)466453\.com$
 (^|\.)admob\.com$
 (^|\.)adsense\.com$

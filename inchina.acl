@@ -67,6 +67,7 @@
 (^|\.)googleweblight\.com$
 (^|\.)googlezip\.net$
 (^|\.)gstatic\.com$
+(^|\.)gsuite\.com$
 (^|\.)gvt[0-9]\.com$
 (^|\.)picasa\.com$
 (^|\.)tensorflow\.org$

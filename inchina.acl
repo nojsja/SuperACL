@@ -19,8 +19,9 @@
 #-–-–-–-–-–-–-–-–+
 [bypass_all]
 [proxy_list]
-# Google
+# Google Inc.
 (^|\.)466453\.com$
+(^|\.)abc\.xyz$
 (^|\.)admob\.com$
 (^|\.)adsense\.com$
 (^|\.)adwords\.com$

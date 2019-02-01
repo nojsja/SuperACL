@@ -11,7 +11,8 @@
 
 ```
 [![HomePAGE](https://img.shields.io/badge/Home-Page-blue.svg?style=flat)](https://powerfulweb.nciyuan.net)
-[![CC License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/LICENSE)
+[![VersionName](https://img.shields.io/badge/Version-108Alpha1Pre1-orange.svg?style=flat)](https://github.com/Windelight/SuperACL/tree/master)
 [![VersionName](https://img.shields.io/badge/Version-108Alpha1Pre1-orange.svg?style=flat)](https://github.com/Windelight/SuperACL/tree/master)
 
 **Tip**:[点击/长按此处立刻复制链接](https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl)并粘贴到软件中即可快速开始使用！

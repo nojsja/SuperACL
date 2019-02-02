@@ -93,3 +93,12 @@
 (^|\.)github\.(com|io)$
 (^|\.)githubapp\.com$
 (^|\.)githubusercontent\.com$
+
+# Facebook Inc.
+(^|\.)facebook\.[a-z]{1,6}$
+(^|\.)fb\.com$
+(^|\.)fbcdn\.net$
+(^|\.)instagram\.com$
+(^|\.)m\.me$
+(^|\.)messenger\.com$
+(^|\.)thefacebook\.com$

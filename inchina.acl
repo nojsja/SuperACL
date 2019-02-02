@@ -109,4 +109,4 @@
 (^|\.)m\.me$
 (^|\.)messenger\.com$
 (^|\.)thefacebook\.com$
-(^|\.)whatsapp\.com$
+(^|\.)whatsapp\.(com|net)$

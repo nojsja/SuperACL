@@ -19,6 +19,7 @@
 #-–-–-–-–-–-–-–-–-–+
 
 [bypass_all]
+
 [proxy_list]
 
 # Google Inc.
@@ -65,6 +66,7 @@
 (^|\.)googlemaps\.com$
 (^|\.)googlephotos\.com$
 (^|\.)googleplay\.com$
+(^|\.)googleplus\.com$
 (^|\.)googlescholar\.com$
 (^|\.)googlesource\.com$
 (^|\.)googlestore\.com$

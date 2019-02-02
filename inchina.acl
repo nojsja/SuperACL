@@ -84,3 +84,7 @@
 (^|\.)youtubekids\.com$
 (^|\.)yt\.be$
 (^|\.)ytimg\.com$
+
+# GitHub Inc.
+(^|\.)github\.(com|io)$
+(^|\.)githubusercontent\.com$

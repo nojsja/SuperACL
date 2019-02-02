@@ -98,6 +98,7 @@
 (^|\.)facebook\.[a-z]{1,6}$
 (^|\.)fb\.com$
 (^|\.)fbcdn\.net$
+(^|\.)fbsbx\.com$
 (^|\.)instagram\.com$
 (^|\.)m\.me$
 (^|\.)messenger\.com$

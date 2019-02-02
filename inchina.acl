@@ -91,4 +91,5 @@
 
 # GitHub Inc.
 (^|\.)github\.(com|io)$
+(^|\.)githubapp\.com$
 (^|\.)githubusercontent\.com$

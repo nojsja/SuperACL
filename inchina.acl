@@ -62,6 +62,7 @@
 (^|\.)googleearth\.com$
 (^|\.)googlegroups\.com$
 (^|\.)googlemail\.com$
+(^|\.)googlemaps\.com$
 (^|\.)googlescholar\.com$
 (^|\.)googlesource\.com$
 (^|\.)googlestore\.com$

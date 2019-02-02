@@ -47,7 +47,7 @@
 (^|\.)google$
 (^|\.)google\.[a-z]+$
 (^|\.)google\.com?\.[a-z][a-z]$
-(^|\.)googleanalytics\.com$
+(^|\.)google-?analytics\.com$
 (^|\.)googleapis\.com$
 (^|\.)googleapps\.com$
 (^|\.)googleblog\.com$

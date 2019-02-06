@@ -32,7 +32,7 @@
 - [ ] 回国模式则反之亦然，欢迎海外华人使用哦 (*σ´∀`)σ
 > 但同时也请您注意：  
 > 1. 我们不会主动去屏蔽广告和国内域名，所以本规则不具有主动屏蔽广告的功能，也不会代理任何 `.cn` 域名哦
-> 2. 我们的项目不基于 `GFWList` 以及 `ChinaList` 等，并且更加严格，所以我们不会添加法轮功等实在是看不下去的网站
+> 2. 我们的项目不基于 `GFWList` 以及 `ChinaList`，并且更加严格，所以我们不会添加法轮功等实在是看不下去的网站
 > 3. 我们会尽可能多地完善这份列表，但是仍然可能会存在失效、过期和疏漏，欢迎您通过PR或者Issue来反馈
 
 ## 使用
@@ -54,6 +54,6 @@
 
 ## 版权
 * Copyright &copy; 2016-2019 NciYuan! Team. Common Rights Statement.
-* Copyright &copy; 2019 MingZheng 'Windelight' Guan. All Rights Reserved.  
+* Copyright &copy; 2019 Guan 'Windelight' MingZheng. All Rights Reserved.  
 
 *** MIT License ***

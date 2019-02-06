@@ -102,7 +102,7 @@
 
 # Facebook Inc.
 (^|\.)facebook\.[a-z]{1,6}$
-(^|\.)fb\.com$
+(^|\.)fb\.(com|me)$
 (^|\.)fbcdn\.net$
 (^|\.)fbsbx\.com$
 (^|\.)instagram\.com$

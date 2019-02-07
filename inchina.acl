@@ -20,7 +20,6 @@
 # In the order of the English initials A-Z of the product or brand name
 [bypass_all]
 [proxy_list]
-
 # Google Inc.
 (^|\.)466453\.com$
 (^|\.)abc\.xyz$

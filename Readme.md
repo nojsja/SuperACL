@@ -17,7 +17,7 @@
 
 **Tip**:[点击/长按此处立刻复制链接](https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl)并粘贴到软件中即可快速开始使用！  
 
-*本项目是`BitBucket`和`Coding`以及`GitLab`上面的备份项目的同步源*
+*本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的同步源*
 
 ## 简介
  本规则有以下两种模式

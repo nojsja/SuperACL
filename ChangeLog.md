@@ -12,7 +12,9 @@
     - [Add] 支持 Google 多个代码等各类型托管服务（比如网站和应用等）
     - [Improve] 添加 GitHub 规则以改善气的想炸服务器的数十KB/s的访问速度
     - [Improve] 添加 GitHub 规则以干掉我机器上Git根本连不上的司马昭问题
-- 回国代理 `inforeign.acl`
+  
+- 回国代理 `inforeign.acl`  
+    - [Add] 直接代理全部 .cn 域名，不做解释
     - [Add] 欢迎淘宝网回家！
     - [Add] 欢迎支付宝回家！
     - [Add] 欢迎阿里旅行回家！

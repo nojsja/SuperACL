@@ -21,5 +21,26 @@
 
 [bypass_all]
 [proxy_list]
-# All .cn domain name
-(^|\.)cn$
+
+(^|\.)1688\.com$
+(^|\.)alicdn\.com$
+(^|\.)alikunlun\.com$
+(^|\.)aliloan\.com$
+(^|\.)alipay\.com$
+(^|\.)alitrip\.com$
+(^|\.)aliyun\.com$
+(^|\.)dingtalk\.com$
+(^|\.)dongting\.com$
+(^|\.)etao\.com$
+(^|\.)feizhu\.com$
+(^|\.)fliggy\.com$
+(^|\.)juhuasuan\.com$
+(^|\.)koubei\.com$
+(^|\.)mmstat\.com$
+(^|\.)taobao\.com$
+(^|\.)taopiaopiao\.com$
+(^|\.)tbcache\.com$
+(^|\.)tmall\.com$
+(^|\.)ttpod\.com$
+(^|\.)xiami\.com$
+(^|\.)yidun\.com$

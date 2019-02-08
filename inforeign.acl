@@ -23,15 +23,21 @@
 [proxy_list]
 
 (^|\.)1688\.com$
+(^|\.)alibaba\.com$
 (^|\.)alicdn\.com$
 (^|\.)alikunlun\.com$
 (^|\.)aliloan\.com$
+(^|\.)alimama\.com$
 (^|\.)alipay\.com$
+(^|\.)alipayobjects\.com$
 (^|\.)alitrip\.com$
 (^|\.)aliyun\.com$
+(^|\.)amap\.com$
 (^|\.)cn$
 (^|\.)dingtalk\.com$
 (^|\.)dongting\.com$
+(^|\.)ele\.me$
+(^|\.)elemecdn\.com$
 (^|\.)etao\.com$
 (^|\.)feizhu\.com$
 (^|\.)fliggy\.com$
@@ -43,5 +49,6 @@
 (^|\.)tbcache\.com$
 (^|\.)tmall\.com$
 (^|\.)ttpod\.com$
+(^|\.)weibo\.com$
 (^|\.)xiami\.com$
 (^|\.)yidun\.com$

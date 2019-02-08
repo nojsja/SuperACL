@@ -12,6 +12,7 @@
     - [Add] 支持 FB Messenger 在线聊天服务  
     - [Add] 支持 FB Messenger 短链接服务
     - [Add] 支持 Instagram 所有服务
+    - [Add] 支持 WhatsApp 所有服务
     - [Fix] 支持 必应所谓国际版 网页搜索服务
     - [Fix] 支持 Bing 网页搜索服务
     - [Improve] 添加微软部分 CDN 域名以加快 Office 和 Outlook 等服务的访问速度

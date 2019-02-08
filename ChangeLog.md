@@ -3,8 +3,17 @@
 
 # **最新版 New Version:**
 
-
-
+### **1.08-Alpha1-Pre2**
+***
+- 出国代理 `inchina.acl`
+    - [Add] 支持 Facebook 网页版服务
+    - [Add] 支持 Facebook 静态资源服务
+    - [Add] 支持 Facebook 短链接服务
+    - [Add] 支持 FB Messenger 在线聊天服务
+- 回国代理 ｀inforeign.acl｀
+    - [Add] 欢迎淘票票回家！
+    - [Add] 欢迎饿了么回家！
+    
 ## **旧版 Old Version:**
 
 ### **1.08-Alpha1-Pre1**   _`2019-02-07`_

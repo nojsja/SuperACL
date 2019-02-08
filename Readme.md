@@ -36,7 +36,7 @@ _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的�
 > 3. 我们会尽可能多地完善这份列表，但是仍然可能会存在失效、过期和疏漏，欢迎您通过PR或者Issue来反馈
 
 ## 使用
-适用的软件平台(已测试):
+适用的软件平台 (已测试):
 - [x] Shadowsocks for Android
 - [x] Shadowsocks-RSS for Android  
 - [ ] ~~Shadowsocks-Qt~~
@@ -46,7 +46,16 @@ _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的�
 - `inchina.acl` 适用于出国代理  
   - 实时更新地址: https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl
 - `inforeign.acl` 适用于回国代理
-  - 实时更新地址: https://raw.githubusercontent.com/Windelight/SuperACL/master/inforeign.acl 
+  - 实时更新地址: https://raw.githubusercontent.com/Windelight/SuperACL/master/inforeign.acl  
+
+使用方法 (via `Shadowsocks for Android`):
+ 1. 打开您的桌面/启动器上的 `影梭` 
+ 2. 从屏幕左侧边缘向右滑动，在侧栏上点击 `自定义规则` 
+ 3. 再点击位于右上角的添加规则图标并在下拉栏中点击手动设置
+ 4. 在对话框中点击下拉栏并选择 `在线规则文件URL` 
+ 5. 粘贴本规则的文件地址并点按确定
+ 6. 回到 `配置文件` 主界面点击笔按钮修改需要的配置项目
+ 7. 将配置中的 `功能设置` -> `路由` 更改为 `自定义规则` 并点击右上角 √ 保存
   
 不会操作或使用吗？建议您先移步本项目 [Wiki](https://github.com/Windelight/SuperACL/wiki) 来获得更多帮助哦!  
 遇到了使用问题？欢迎您移步到本项目 [Issue](https://github.com/Windelight/SuperACL/issues) 想我们提交反馈哦! 

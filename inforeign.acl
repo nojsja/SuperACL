@@ -23,6 +23,7 @@
 [proxy_list]
 
 (^|\.)1688\.com$
+(^|\.)aliapp\.org$
 (^|\.)alibaba\.com$
 (^|\.)alicdn\.com$
 (^|\.)alikunlun\.com$
@@ -44,11 +45,17 @@
 (^|\.)juhuasuan\.com$
 (^|\.)koubei\.com$
 (^|\.)mmstat\.com$
+(^|\.)sina\.com$
+(^|\.)sinaimg\.cn$
+(^|\.)sinajs\.cn$
 (^|\.)taobao\.com$
 (^|\.)taopiaopiao\.com$
+(^|\.)tbcache\.cn$
 (^|\.)tbcache\.com$
+(^|\.)tbcdn\.cn$
 (^|\.)tmall\.com$
 (^|\.)ttpod\.com$
+(^|\.)weibo\.cn$
 (^|\.)weibo\.com$
 (^|\.)xiami\.com$
 (^|\.)yidun\.com$

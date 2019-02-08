@@ -85,6 +85,7 @@
 (^|\.)gstatic\.com$
 (^|\.)gsuite\.com$
 (^|\.)gvt[0-9]\.com$
+(^|\.)i\.org$
 (^|\.)instagram\.com$
 (^|\.)m\.me$
 (^|\.)messenger\.com$

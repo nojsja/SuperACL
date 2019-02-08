@@ -3,7 +3,20 @@
 
 # **最新版 New Version:**
 
-### **1.08-Alpha1-Pre2** `2019-02-08`
+### **1.08-Alpha1-Pre4** `2019-02-08`
+***
+- 出国代理 `inchina.acl`
+
+- 回国代理 `inforeign.acl`
+    - [Delete] 移除 `.cn` 野卡式暴力代理规则
+
+### **1.08-Alpha1-Pre3** `2019-02-07`
+***
+- 出国代理 `inchina.acl`
+
+- 回国代理 `inforeign.acl`
+
+### **1.08-Alpha1-Pre2** `2019-02-06`
 ***
 - 出国代理 `inchina.acl`
     - [Add] 支持 Facebook 网页版服务
@@ -30,7 +43,7 @@
     
 ## **旧版 Old Version:**
 
-### **1.08-Alpha1-Pre1**   _`2019-02-07`_
+### **1.08-Alpha1-Pre1**   _`2019-02-05`_
 ***
 - 出国代理 `inchina.acl`  
     - [Add] 支持 Google 全部 ccTLD 地区域名

@@ -43,12 +43,12 @@ _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的�
 - [ ] ~~Shadowsocks-Libev~~
 
 文件内容:
-- `inchina.acl` 适用于出国代理  
+- `inchina.acl` <u>适用于出国代理</u>  
   - 实时更新地址: https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl
-- `inforeign.acl` 适用于回国代理
+- `inforeign.acl` <u>适用于回国代理</u>
   - 实时更新地址: https://raw.githubusercontent.com/Windelight/SuperACL/master/inforeign.acl  
 
-使用方法 (via [`Shadowsocks for Android`](https://github.com/shadowsocks/shadowsocks-android)):
+使用方法 (via [Shadowsocks for Android](https://github.com/shadowsocks/shadowsocks-android)):
  1. 打开您的桌面/启动器上的 `影梭` 
  2. 从屏幕左侧边缘向右滑动，在侧栏上点击 `自定义规则` 
  3. 再点击位于右上角的添加规则图标并在下拉栏中点击手动设置

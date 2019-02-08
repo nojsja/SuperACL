@@ -3,17 +3,27 @@
 
 # **最新版 New Version:**
 
-### **1.08-Alpha1-Pre2** ｀2019-02-08
+### **1.08-Alpha1-Pre2** `2019-02-08`
 ***
 - 出国代理 `inchina.acl`
     - [Add] 支持 Facebook 网页版服务
     - [Add] 支持 Facebook 静态资源服务
     - [Add] 支持 Facebook 短链接服务
     - [Add] 支持 FB Messenger 在线聊天服务  
+    - [Add] 支持 FB Messenger 短链接服务
+    - [Add] 支持 Instagram 所有服务
+    - [Fix] 支持 必应所谓国际版 网页搜索服务
+    - [Fix] 支持 Bing 网页搜索服务
+    - [Improve] 添加微软部分 CDN 域名以加快 Office 和 Outlook 等服务的访问速度
     
-- 回国代理 ｀inforeign.acl｀
+- 回国代理 `inforeign.acl`
     - [Add] 欢迎淘票票回家！
     - [Add] 欢迎饿了么回家！
+    - [Add] 欢迎阿里妈妈回家！
+    - [Add] 欢迎百度回家！
+    - [Add] 欢迎搜狗和搜狐回家！
+    - [Improve] 添加了部分阿里的相关云服务域名
+    - [Delete] 因 `.cn` 全部代理，所以删除 `tbcache.cn` 等大陆地区域名
     
 ## **旧版 Old Version:**
 

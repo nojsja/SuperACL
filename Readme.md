@@ -57,7 +57,7 @@ _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的�
  6. 回到 `配置文件` 主界面点击笔按钮修改需要的配置项目
  7. 将配置中的 `功能设置` -> `路由` 更改为 `自定义规则` 并点击右上角 √ 保存  
  
-支持列表 (Ver. 1.08-Alpha1-Pre1): 位于 [SupportList.md](https://github.com/Windelight/SuperACL/blob/master/SupportList.md) 文件中
+支持列表 (Ver. 1.08-Alpha1-Pre1): 位于[SupportList.md](https://github.com/Windelight/SuperACL/blob/master/SupportList.md)文件中  
 不会操作或使用吗？建议您先移步本项目 [Wiki](https://github.com/Windelight/SuperACL/wiki) 来获得更多帮助哦!  
 遇到了使用问题？欢迎您移步到本项目 [Issue](https://github.com/Windelight/SuperACL/issues) 想我们提交反馈哦! 
 

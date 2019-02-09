@@ -9,11 +9,15 @@
     - [Improve] 添加 Akamai 相关服务域名加速其它网站访问速度
     - [Improve] 添加 AWS 部分服务域名以加快速度
     - [Improve] 添加 Fastly 相关服务域名以加快速度
-    
+    - [Improve] 
 - 回国代理 `inforeign.acl`
     - [Add] 添加部分新浪 .cn 相关网址域名
     - [Add] 添加部分百度 .cn 相关网址域名
     - [Add] 添加部分阿里 .cn 相关网址域名
+    - [Add] 欢迎 Hao123 回家！
+    - [Add] 欢迎网易邮箱回家！
+    - [Add] 欢迎网易游戏回家！
+    - []
     - [Delete] 移除 `.cn` 野卡式暴力代理规则
 
 ## **旧版 Old Version:**
@@ -22,7 +26,8 @@
 ***
 - 出国代理 `inchina.acl`
     - [Add],支持 Medium 全站访问
-    - [Add] 支持
+    - [Add] 支持 Twitter 网页版服务
+    - [Add] 支持 Twitter 短链接服务
     - [Fix] 支持 Wikipedia 中文站访问
     
 - 回国代理 `inforeign.acl`

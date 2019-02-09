@@ -26,9 +26,8 @@
 (^|\.)cn$
 
 # Alibaba Group:
-# Taobao Inc.: Online Shopping & Open Source
-(^|\.)taobao\.(com|org)$
 
+(^|\.)taobao\.(com|org)$
 (^|\.)1688\.com$
 (^|\.)aliapp\.org$
 (^|\.)alibaba\.com$

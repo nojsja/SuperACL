@@ -81,7 +81,7 @@
     - [Improve] 添加了部分阿里的相关云服务域名
     - [Delete] 因 `.cn` 全部代理，所以删除 `tbcache.cn` 等大陆地区域名
     
-### **1.08-Alpha1-Pre1**   _`2019-02-05`
+### **1.08-Alpha1-Pre1**   `2019-02-05`
 ***
 - 出国代理 `inchina.acl`  
     - [Add] 支持 Google 全部 ccTLD 地区域名

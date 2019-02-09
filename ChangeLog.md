@@ -9,6 +9,7 @@
     - [Improve] 添加 Akamai 相关服务域名加速其它网站访问速度
     - [Improve] 添加 AWS 部分服务域名以加快速度
     - [Improve] 添加 Fastly 相关服务域名以加快速度
+    
 - 回国代理 `inforeign.acl`
     - [Add] 添加部分新浪 .cn 相关网址域名
     - [Add] 添加部分百度 .cn 相关网址域名
@@ -23,6 +24,7 @@
     - [Add],支持 Medium 全站访问
     - [Add] 
     - [Fix] 支持 Wikipedia 中文站访问
+    
 - 回国代理 `inforeign.acl`
     - [Add] 欢迎网易网页版回家！
     - [Add] 欢迎京东回家！

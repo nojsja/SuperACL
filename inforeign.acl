@@ -22,6 +22,7 @@
 [bypass_all]
 [proxy_list]
 
+# Alibaba Group
 (^|\.)1688\.com$
 (^|\.)aliapp\.org$
 (^|\.)alibaba\.com$

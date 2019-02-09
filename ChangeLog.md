@@ -74,7 +74,7 @@
     - [Add] 支持 WhatsApp 所有服务
     - [Fix] 支持 必应所谓国际版 网页搜索服务 （不要在中国版主站点击国际版，因为没用）
     - [Fix] 支持 Bing 网页搜索服务 （有效，从 Global 站或者 MSN 发起搜索，不要在CN站点国际）
-    - [Improve] 添加微软部分 CDN 域名以加快 Office 和 Outlook 等服务的访问速度
+    - [Improve] 添加微软部分 CDN 域名以加快 Office365 和 Outlook 等服务的访问速度
     
 - 回国代理 `inforeign.acl`
     - [Add] 欢迎淘票票回家！

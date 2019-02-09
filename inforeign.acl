@@ -23,11 +23,7 @@
 [proxy_list]
 
 # NciYuan: Violent agent
-(^|\.)cn$
-
-# Alibaba Group:
-
-(^|\.)taobao\.(com|org)$
+#(^|\.)cn$
 (^|\.)1688\.com$
 (^|\.)aliapp\.org$
 (^|\.)alibaba\.com$
@@ -53,6 +49,7 @@
 (^|\.)sina\.com$
 (^|\.)sinaimg\.cn$
 (^|\.)sinajs\.cn$
+(^|\.)taobao\.(com|org)$
 (^|\.)taopiaopiao\.com$
 (^|\.)tbcache\.cn$
 (^|\.)tbcache\.com$

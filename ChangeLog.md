@@ -9,7 +9,7 @@
     - [Add] 支持 Mega 网盘网页版服务
     - [Add] 支持 Dropbox 网页版服务
     - [Add] 支持 OneDrive 网页版服务
-    - [Add] 支持 
+    - [Add] 支持 OneDrive 短链接富裕
     - [Improve] 添加 Akamai 相关服务域名加速其它网站访问速度
     - [Improve] 添加 AWS 部分服务域名以加快速度
     - [Improve] 添加 Fastly 相关服务域名以加快速度
@@ -36,9 +36,11 @@
     - [Add],支持 Medium 全站访问
     - [Add] 支持 Twitter 网页版服务
     - [Add] 支持 Twitter 短链接服务
-    - [Add] 支持 Apkpure 网页版服务
+    - [Add] 支持 Apkpure 应用商店网页版服务
     - [Add] 支持 Aptoide 网页版服务
+    - [Add] 支持 Apkmirror 全部服务
     - [Add] 支持 Google Play 安卓端全功能使用
+    - [Add] 支持 Archive 存档馆全部服务
     - [Fix] 支持 Wikipedia 中文站访问
     
 - 回国代理 `inforeign.acl`

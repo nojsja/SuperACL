@@ -6,7 +6,7 @@
 ### **1.08-Alpha1-Pre4** `2019-02-10`
 ***
 - 出国代理 `inchina.acl`
-    - [Add] 支持 Mega 网盘网页版服务
+    - [Add] 支持 Telegram 网页版服务
     - [Add] 支持 Dropbox 网页版服务
     - [Add] 支持 OneDrive 网页版服务
     - [Add] 支持 OneDrive 短链接服务

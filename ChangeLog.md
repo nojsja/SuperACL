@@ -9,11 +9,14 @@
     - [Add] 支持 Mega 网盘网页版服务
     - [Add] 支持 Dropbox 网页版服务
     - [Add] 支持 OneDrive 网页版服务
-    - [Add] 支持 OneDrive 短链接富裕
+    - [Add] 支持 OneDrive 短链接服务
+    - [Add] 支持 WordPress 博客托管服务
     - [Improve] 添加 Akamai 相关服务域名加速其它网站访问速度
     - [Improve] 添加 AWS 部分服务域名以加快速度
     - [Improve] 添加 Fastly 相关服务域名以加快速度
     - [Improve] 添加 Amazon 非中国区部分域名
+    - [Fix] 添加 Tumblr 用到的图片和缓存类域名
+    - [Delete] 合并删除了一些相同一级域的条目，加快速度
     
 - 回国代理 `inforeign.acl`
     - [Add] 添加部分新浪 .cn 相关网址域名
@@ -34,6 +37,7 @@
 ***
 - 出国代理 `inchina.acl`
     - [Add],支持 Medium 全站访问
+    - [Add] 支持 Tumblr 网页版访问
     - [Add] 支持 Twitter 网页版服务
     - [Add] 支持 Twitter 短链接服务
     - [Add] 支持 Apkpure 应用商店网页版服务

@@ -6,14 +6,19 @@
 ### **1.08-Alpha1-Pre4** `2019-02-10`
 ***
 - 出国代理 `inchina.acl`
-
+    - [Add] 
 - 回国代理 `inforeign.acl`
+    - [Add] 添加部分新浪相关网址域名
+    - [Add] 添加部分百度相关网址域名
+    - [Add] 添加部分阿里相关网址域名
     - [Delete] 移除 `.cn` 野卡式暴力代理规则
+
+## **旧版 Old Version:**
 
 ### **1.08-Alpha1-Pre3** `2019-02-08`
 ***
 - 出国代理 `inchina.acl`
-
+    - 
 - 回国代理 `inforeign.acl`
 
 ### **1.08-Alpha1-Pre2** `2019-02-07`
@@ -41,9 +46,7 @@
     - [Improve] 添加了部分阿里的相关云服务域名
     - [Delete] 因 `.cn` 全部代理，所以删除 `tbcache.cn` 等大陆地区域名
     
-## **旧版 Old Version:**
-
-### **1.08-Alpha1-Pre1**   _`2019-02-05`_
+### **1.08-Alpha1-Pre1**   _`2019-02-05`
 ***
 - 出国代理 `inchina.acl`  
     - [Add] 支持 Google 全部 ccTLD 地区域名

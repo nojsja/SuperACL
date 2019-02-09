@@ -27,6 +27,7 @@
 
 # Alibaba Group:
 # Taobao Inc.: Online Shopping & Open Source
+(^|\.)taobao\.(com|org)$
 
 (^|\.)1688\.com$
 (^|\.)aliapp\.org$
@@ -53,7 +54,6 @@
 (^|\.)sina\.com$
 (^|\.)sinaimg\.cn$
 (^|\.)sinajs\.cn$
-(^|\.)taobao\.com$
 (^|\.)taopiaopiao\.com$
 (^|\.)tbcache\.cn$
 (^|\.)tbcache\.com$

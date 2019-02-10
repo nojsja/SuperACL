@@ -125,6 +125,7 @@
 (^|\.)thefacebook\.com$
 (^|\.)thinkwithgoogle\.com$
 (^|\.)twitter\.com$
+(^|\.)twimg\.com$
 (^|\.)urchin\.com$
 (^|\.)visualstudio\.com$
 (^|\.)whatbrowser\.org$

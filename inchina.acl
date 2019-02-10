@@ -15,13 +15,14 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 100+ Items #
+# Total: 100+ Items 
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the product or brand name
 
 [bypass_all]
 [proxy_list]
 
+(^|\.)1drv\.(com|ms)$
 (^|\.)1drv\.ms$
 (^|\.)466453\.com$
 (^|\.)abc\.xyz$
@@ -29,6 +30,7 @@
 (^|\.)adsense\.com$
 (^|\.)adwords\.com$
 (^|\.)aka\.ms$
+(^|\.)akamaihd\.net$
 (^|\.)akamaized\.net$
 (^|\.)android\.com$
 (^|\.)androidify\.com$
@@ -40,6 +42,7 @@
 (^|\.)blogblog\.com$
 (^|\.)blogger\.com$
 (^|\.)blogspot\.com$
+(^|\.)cdninstagram\.com$
 (^|\.)chrome\.com$
 (^|\.)chromebook\.com$
 (^|\.)chromecast\.com$
@@ -95,11 +98,14 @@
 (^|\.)gvt[0-9]\.com$
 (^|\.)hotmail\.com$
 (^|\.)i\.org$
+(^|\.)instagr\.am$
 (^|\.)instagram\.com$
 (^|\.)live\.com$
+(^|\.)livefilestore\.com$
 (^|\.)m\.me$
 (^|\.)messenger\.com$
 (^|\.)microsoft\.com$
+(^|\.)microsoftonline\.com$
 (^|\.)msecnd\.net$
 (^|\.)msn\.com$
 (^|\.)msocdn\.com$
@@ -108,15 +114,24 @@
 (^|\.)onestore\.ms$
 (^|\.)outlook\.com$
 (^|\.)picasa\.com$
+(^|\.)s-microsoft\.com$
+(^|\.)s-msft\.com$
+(^|\.)sfx\.ms$
+(^|\.)sharepointonline\.com$
 (^|\.)surface\.com$
+(^|\.)svc\.ms$
+(^|\.)t\.co$
 (^|\.)tensorflow\.org$
 (^|\.)thefacebook\.com$
 (^|\.)thinkwithgoogle\.com$
+(^|\.)twitter\.com$
 (^|\.)urchin\.com$
 (^|\.)visualstudio\.com$
 (^|\.)whatbrowser\.org$
 (^|\.)whatsapp\.(com|net)$
 (^|\.)wikipedia\.org$
+(^|\.)windows\.com$
+(^|\.)windowsphone\.com$
 (^|\.)withgoogle\.com$
 (^|\.)withyoutube\.com$
 (^|\.)xbox\.com$

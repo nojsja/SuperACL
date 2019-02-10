@@ -33,7 +33,10 @@
 (^|\.)akamaized\.net$
 (^|\.)android\.com$
 (^|\.)androidify\.com$
+(^|\.)apkmirror\.com$
+(^|\.)apkpure\.com$
 (^|\.)appspot\.com$
+(^|\.)aptoide\.com$
 (^|\.)aspnetcdn\.com$
 (^|\.)azureedge\.net$
 (^|\.)azurewebsites\.net$

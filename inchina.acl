@@ -36,6 +36,7 @@
 (^|\.)appspot\.com$
 (^|\.)aspnetcdn\.com$
 (^|\.)azureedge\.net$
+(^|\.)azurewebsites\.net$
 (^|\.)bing\.com$
 (^|\.)blink\.org$
 (^|\.)blogblog\.com$

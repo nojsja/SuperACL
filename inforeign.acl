@@ -50,12 +50,8 @@
 (^|\.)sinajs\.cn$
 (^|\.)taobao\.(com|org)$
 (^|\.)taopiaopiao\.com$
-(^|\.)tbcache\.cn$
-(^|\.)tbcache\.com$
-(^|\.)tbcdn\.cn$
 (^|\.)tmall\.com$
 (^|\.)ttpod\.com$
-(^|\.)weibo\.cn$
-(^|\.)weibo\.com$
+(^|\.)weibo\.(com|cn)$
 (^|\.)xiami\.com$
 (^|\.)yidun\.com$

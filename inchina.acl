@@ -124,6 +124,7 @@
 (^|\.)surface\.com$
 (^|\.)svc\.ms$
 (^|\.)t\.co$
+(^|\.)telegram\.org
 (^|\.)tensorflow\.org$
 (^|\.)thefacebook\.com$
 (^|\.)thinkwithgoogle\.com$

@@ -16,6 +16,7 @@
     - [Improve] 添加 Fastly 相关服务域名以加快速度
     - [Improve] 添加 Amazon 非中国区部分域名
     - [Fix] 添加 Tumblr 用到的图片和缓存类域名
+    - [Fix] 继续补充部分微软家的域名 (真多......比谷狗还多)
     - [Delete] 合并删除了一些相同一级域的条目，加快速度
     
 - 回国代理 `inforeign.acl`
@@ -29,6 +30,7 @@
     - [Add] 欢迎合一回家！
     - [Add] 欢迎九游回家！
     - [Improve] 添加亚马逊中国解决玄学问题
+    - [Improve] 添加一些阿里云和自家CDN的各种业务域名
     - [Delete] 移除 `.cn` 野卡式暴力代理规则
 
 ## **旧版 Old Version:**

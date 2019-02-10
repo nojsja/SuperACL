@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 100+ Items 
+# Total: 120+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the product or brand name
 
@@ -23,7 +23,6 @@
 [proxy_list]
 
 (^|\.)1drv\.(com|ms)$
-(^|\.)1drv\.ms$
 (^|\.)466453\.com$
 (^|\.)abc\.xyz$
 (^|\.)admob\.com$

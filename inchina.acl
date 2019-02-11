@@ -31,6 +31,7 @@
 (^|\.)aka\.ms$
 (^|\.)akamaihd\.net$
 (^|\.)akamaized\.net$
+(^|\.)amazonaws\.com$
 (^|\.)android\.com$
 (^|\.)androidify\.com$
 (^|\.)apkmirror\.com$

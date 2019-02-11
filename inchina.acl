@@ -139,7 +139,9 @@
 (^|\.)whatsapp\.(com|net)$
 (^|\.)wikipedia\.org$
 (^|\.)windows\.com$
+(^|\.)windowslive\.com$
 (^|\.)windowsphone\.com$
+(^|\.)windowssearch\.com$
 (^|\.)withgoogle\.com$
 (^|\.)withyoutube\.com$
 (^|\.)xbox\.com$

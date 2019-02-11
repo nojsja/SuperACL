@@ -18,8 +18,10 @@
 # Total: 120+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the company name 
+
 [bypass_all]
 [proxy_list] 
+
 #(^|\.)cn$
 (^|\.)126\.(com|net)$
 (^|\.)127\.net$

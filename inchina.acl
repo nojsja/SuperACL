@@ -41,7 +41,8 @@
 (^|\.)aspnetcdn\.com$
 (^|\.)azureedge\.net$
 (^|\.)azurewebsites\.net$
-(^|\.)bing\.com$
+(^|\.)bing\.(com|net)$
+(^|\.)bingapis\.com$
 (^|\.)blink\.org$
 (^|\.)blogblog\.com$
 (^|\.)blogger\.com$

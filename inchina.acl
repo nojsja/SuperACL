@@ -138,7 +138,7 @@
 (^|\.)whatbrowser\.org$
 (^|\.)whatsapp\.(com|net)$
 (^|\.)wikipedia\.org$
-(^|\.)windows\.com$
+(^|\.)windows\.(com|net)$
 (^|\.)windowslive\.com$
 (^|\.)windowsphone\.com$
 (^|\.)windowssearch\.com$

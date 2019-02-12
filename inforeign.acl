@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 150+ Items #
+# Total: 180+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the company name 
 
@@ -30,9 +30,13 @@
 (^|\.)17173\.com$
 (^|\.)17173cdn\.com$
 (^|\.)188\.com$
+(^|\.)3366\.com$
+(^|\.)360-api\.cn$
 (^|\.)360\.(com|cn)$
 (^|\.)360buy\.com$
 (^|\.)360buyimg\.com$
+(^|\.)360os\.com$
+(^|\.)360safe\.com$
 (^|\.)3\.cn$
 (^|\.)56\.com$
 (^|\.)56img\.com$
@@ -62,6 +66,8 @@
 (^|\.)antfin\.com$
 (^|\.)antfortune\.com$
 (^|\.)antgroup\.com$
+(^|\.)appchizi\.com$
+(^|\.)applinzi\.com$
 (^|\.)autonavi\.com$
 (^|\.)baidu\.com$
 (^|\.)baidubce\.com$
@@ -81,6 +87,7 @@
 (^|\.)cnzz\.com$
 (^|\.)cy\.com$
 (^|\.)dayu\.com$
+(^|\.)dhrest\.com$
 (^|\.)dingtalk\.com$
 (^|\.)dongting\.com$
 (^|\.)dratio\.com$
@@ -98,9 +105,11 @@
 (^|\.)go2map\.com$
 (^|\.)gtimg\.cn$
 (^|\.)hao123\.com$
+(^|\.)haosou\.com$
 (^|\.)hdslb\.com$
 (^|\.)hiapk\.com$
 (^|\.)hichina\.com$
+(^|\.)i360mall\.com$
 (^|\.)icourse163\.org$
 (^|\.)itc\.cn$
 (^|\.)ixinyou\.com$
@@ -111,6 +120,7 @@
 (^|\.)koubei\.com$
 (^|\.)laifeng\.com$
 (^|\.)lofter\.com$
+(^|\.)ludashi\.com$
 (^|\.)miaopai\.com$
 (^|\.)mmstat\.com$
 (^|\.)myapp\.com$
@@ -124,16 +134,30 @@
 (^|\.)qcloud\.com$
 (^|\.)qcloudimg\.com$
 (^|\.)qhimg\.com$
+(^|\.)qhmsg\.com$
+(^|\.)qhres\.com$
+(^|\.)qhupdate\.com$
 (^|\.)qianqian\.com$
+(^|\.)qihoo\.com$
+(^|\.)qihucdn\.com$
+(^|\.)qikoo\.com$
+(^|\.)qiku\.com$
+(^|\.)qikucdn\.com$
 (^|\.)qiyukf\.com$
 (^|\.)qlogo\.cn$
 (^|\.)qpic\.cn$
 (^|\.)qq\.com$
 (^|\.)qzone\.com$
+(^|\.)sc2yun\.com$
 (^|\.)shifen\.com$
 (^|\.)sina\.com$
+(^|\.)sina\.com\.cn$
+(^|\.)sinaapp\.com$
+(^|\.)sinacloud\.com$
 (^|\.)sinaimg\.cn$
 (^|\.)sinajs\.cn$
+(^|\.)sinastorage\.cn$
+(^|\.)so\.com$
 (^|\.)sogo\.com$
 (^|\.)sogou\.com$
 (^|\.)sogoucdn\.com$
@@ -143,6 +167,7 @@
 (^|\.)sohusce\.com$
 (^|\.)soku\.com$
 (^|\.)soso\.com$
+(^|\.)sou\.com$
 (^|\.)t\.cn$
 (^|\.)taihe\.com$
 (^|\.)taobao\.(com|org)$
@@ -177,4 +202,7 @@
 (^|\.)ykimg\.com$
 (^|\.)youku\.com$
 (^|\.)yunos\.com$
+(^|\.)yunpan\.cn$
+(^|\.)yunshangdian\.com$
+(^|\.)yx-s\.com$
 (^|\.)z\.cn$

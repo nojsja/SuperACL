@@ -152,7 +152,7 @@
 (^|\.)qzone\.com$
 (^|\.)sc2yun\.com$
 (^|\.)shifen\.com$
-(^|\.)sina\.com$
+(^|\.)sina\.(com|cn)$
 (^|\.)sina\.com\.cn$
 (^|\.)sinaapp\.com$
 (^|\.)sinacloud\.com$

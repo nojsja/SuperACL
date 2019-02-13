@@ -30,6 +30,7 @@
 (^|\.)adsense\.com$
 (^|\.)adwords\.com$
 (^|\.)aka\.ms$
+(^|\.)akamai\.net$
 (^|\.)akamaihd\.net$
 (^|\.)akamaized\.net$
 (^|\.)amazonaws\.com$
@@ -104,6 +105,7 @@
 (^|\.)googlevideo\.com$
 (^|\.)googleweblight\.com$
 (^|\.)googlezip\.net$
+(^|\.)greatfire\.org$
 (^|\.)gstatic\.com$
 (^|\.)gsuite\.com$
 (^|\.)gvt[0-9]\.com$

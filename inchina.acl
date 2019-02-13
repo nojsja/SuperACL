@@ -56,6 +56,7 @@
 (^|\.)chromium\.org$
 (^|\.)dot\.net$
 (^|\.)doubleclick\.(com|net)$
+(^|\.)duckduckgo\.com$
 (^|\.)facebook\.[a-z]{1,6}$
 (^|\.)fb\.(com|me)$
 (^|\.)fbcdn\.net$

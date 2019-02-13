@@ -38,7 +38,7 @@
 ### **1.08-Alpha1-Pre3** `2019-02-08`
 ***
 - 出国代理 `inchina.acl`
-    - [Add],支持 Medium 全站访问
+    - [Add],支持 Medium 全站加速访问
     - [Add] 支持 Tumblr 网页版访问
     - [Add] 支持 Twitter 网页版服务
     - [Add] 支持 Twitter 短链接服务

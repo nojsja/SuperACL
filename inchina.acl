@@ -136,6 +136,7 @@
 (^|\.)outlook\.com$
 (^|\.)passport\.com$
 (^|\.)picasa\.com$
+(^|\.)redd\.it$
 (^|\.)reddit\.com$
 (^|\.)redditmedia\.com$
 (^|\.)redditstatic\.com$

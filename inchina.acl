@@ -166,6 +166,8 @@
 (^|\.)windowssearch\.com$
 (^|\.)withgoogle\.com$
 (^|\.)withyoutube\.com$
+(^|\.)wordpress\.com$
+(^|\.)wp\.com$
 (^|\.)xamarin\.com$
 (^|\.)xbox\.com$
 (^|\.)youtu\.be$

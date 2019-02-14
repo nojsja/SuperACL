@@ -30,8 +30,9 @@
 (^|\.)adsense\.com$
 (^|\.)adwords\.com$
 (^|\.)aka\.ms$
-(^|\.)akamai\.net$
+(^|\.)akamai\.(com|net)$
 (^|\.)akamaihd\.net$
+(^|\.)akamaitechnologies\.com$
 (^|\.)akamaized\.net$
 (^|\.)amazonaws\.com$
 (^|\.)android\.com$

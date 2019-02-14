@@ -82,6 +82,7 @@
 (^|\.)google-?analytics\.com$
 (^|\.)google\.[a-z]+$
 (^|\.)google\.com?\.[a-z][a-z]$
+(^|\.)googleadservices\.com$
 (^|\.)googleapis\.com$
 (^|\.)googleapps\.com$
 (^|\.)googleblog\.com$

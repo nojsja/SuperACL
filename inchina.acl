@@ -137,6 +137,8 @@
 (^|\.)passport\.com$
 (^|\.)picasa\.com$
 (^|\.)reddit\.com$
+(^|\.)redditmedia\.com$
+(^|\.)redditstatic\.com$
 (^|\.)s-microsoft\.com$
 (^|\.)s-msft\.com$
 (^|\.)sfx\.ms$

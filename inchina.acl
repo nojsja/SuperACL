@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 120+ Items #
+# Total: 160+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the product or brand name 
 
@@ -52,6 +52,7 @@
 (^|\.)blogger\.com$
 (^|\.)blogspot\.com$
 (^|\.)cdninstagram\.com$
+(^|\.)celsoazevedo\.com$
 (^|\.)chrome\.com$
 (^|\.)chromebook\.com$
 (^|\.)chromecast\.com$
@@ -116,6 +117,7 @@
 (^|\.)hotmail\.com$
 (^|\.)i\.org$
 (^|\.)iis\.net$
+(^|\.)imgur\.com$
 (^|\.)instagr\.am$
 (^|\.)instagram\.com$
 (^|\.)jtvnw\.net$
@@ -136,6 +138,7 @@
 (^|\.)outlook\.com$
 (^|\.)passport\.com$
 (^|\.)picasa\.com$
+(^|\.)pinimg\.com$
 (^|\.)pinterest\.com$
 (^|\.)redd\.it$
 (^|\.)reddit\.com$

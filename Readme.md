@@ -15,12 +15,12 @@
 [![VersionName](https://img.shields.io/badge/Version-108Alpha1Pre4-orange.svg?style=flat)](https://github.com/Windelight/SuperACL/tree/master)
 [![ChangeLOG](https://img.shields.io/badge/Change-Log-red.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/ChangeLog.md)
 
-**Tip**:[点击/长按此处立刻复制链接](https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl)并粘贴到软件中即可快速开始使用！  
+**Tip**: [点击/长按此处立刻复制链接](https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl)并粘贴到软件中即可快速开始使用！  
 
 _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的同步源_
 
-**前排提示:因本作者现已开学，所以本项目除主要文件外其他文件全部 Delay 更新，但两份规则文件仍会保持每日更新！**  
-**终止时间:2019年2月17日 终止版本号:1.08-Alpha1-Pre4 （不再继续累加版本，但文件持续更新）**  
+**前排提示: 因本作者现已开学，所以本项目除主要文件外其他文件全部 Delay 更新，但两份规则文件仍会保持每日更新！**  
+**终止时间: 2019年2月17日 终止版本号: 1.08-Alpha1-Pre4 （不再继续累加版本，但文件持续更新）**  
 
 ## 简介
  本规则有以下两种模式

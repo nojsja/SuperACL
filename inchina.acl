@@ -34,6 +34,7 @@
 (^|\.)akamaihd\.net$
 (^|\.)akamaitechnologies\.com$
 (^|\.)akamaized\.net$
+(^|\.)alexa\.com$
 (^|\.)amazonaws\.com$
 (^|\.)android\.com$
 (^|\.)androidify\.com$
@@ -59,6 +60,7 @@
 (^|\.)chromium\.org$
 (^|\.)cloudflare\.com$
 (^|\.)cloudflarestream.com\.org$
+(^|\.)cloudfront\.net$
 (^|\.)dot\.net$
 (^|\.)doubleclick\.(com|net)$
 (^|\.)duckduckgo\.com$
@@ -67,6 +69,7 @@
 (^|\.)fbcdn\.net$
 (^|\.)fbsbx\.com$
 (^|\.)firebaseapp\.com$
+(^|\.)flickr\.com$
 (^|\.)g\.co$
 (^|\.)gcr\.io$
 (^|\.)gfx\.ms$
@@ -110,6 +113,7 @@
 (^|\.)googlevideo\.com$
 (^|\.)googleweblight\.com$
 (^|\.)googlezip\.net$
+(^|\.)gravatar\.com$
 (^|\.)greatfire\.org$
 (^|\.)gstatic\.com$
 (^|\.)gsuite\.com$
@@ -131,6 +135,8 @@
 (^|\.)msecnd\.net$
 (^|\.)msn\.com$
 (^|\.)msocdn\.com$
+(^|\.)oculus\.com$
+(^|\.)oculuscdn\.com$
 (^|\.)office365\.com$
 (^|\.)office\.(com|net)$:
 (^|\.)onedrive\.com$
@@ -149,8 +155,11 @@
 (^|\.)sfx\.ms$
 (^|\.)sharepoint\.com$
 (^|\.)sharepointonline\.com$
+(^|\.)similarcdn\.com$
+(^|\.)similarweb\.com$
 (^|\.)skype\.com$
 (^|\.)skypeassets\.com$
+(^|\.)staticflickr\.com$
 (^|\.)surface\.com$
 (^|\.)svc\.ms$
 (^|\.)t\.(co|me)$
@@ -169,6 +178,7 @@
 (^|\.)visualstudio\.com$
 (^|\.)whatbrowser\.org$
 (^|\.)whatsapp\.(com|net)$
+(^|\.)wikimedia\.org$
 (^|\.)wikipedia\.org$
 (^|\.)windows\.(com|net)$
 (^|\.)windowslive\.com$
@@ -180,6 +190,9 @@
 (^|\.)wp\.com$
 (^|\.)xamarin\.com$
 (^|\.)xbox\.com$
+(^|\.)xda-cdn\.com$
+(^|\.)xda-developers\.com$
+(^|\.)yimg\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
 (^|\.)youtube\.com$

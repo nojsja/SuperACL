@@ -20,7 +20,7 @@
 # In the order of the English initials A-Z of the product or brand name 
 
 [bypass_all]
-[proxy_list] 
+[proxy_list]
 
 (^|\.)1drv\.(com|ms)$
 (^|\.)466453\.com$
@@ -40,8 +40,10 @@
 (^|\.)androidify\.com$
 (^|\.)apkmirror\.com$
 (^|\.)apkpure\.com$
+(^|\.)app\.link$
 (^|\.)appspot\.com$
 (^|\.)aptoide\.com$
+(^|\.)asp\.net$
 (^|\.)aspnetcdn\.com$
 (^|\.)azure\.(com|net)$
 (^|\.)azureedge\.net$
@@ -52,8 +54,10 @@
 (^|\.)blogblog\.com$
 (^|\.)blogger\.com$
 (^|\.)blogspot\.com$
+(^|\.)branch\.io$
 (^|\.)cdninstagram\.com$
 (^|\.)celsoazevedo\.com$
+(^|\.)chinatimes\.com$
 (^|\.)chrome\.com$
 (^|\.)chromebook\.com$
 (^|\.)chromecast\.com$
@@ -61,9 +65,14 @@
 (^|\.)cloudflare\.com$
 (^|\.)cloudflarestream.com\.org$
 (^|\.)cloudfront\.net$
+(^|\.)docs\.com$
 (^|\.)dot\.net$
 (^|\.)doubleclick\.(com|net)$
 (^|\.)duckduckgo\.com$
+(^|\.)dynamics\.com$
+(^|\.)eshop\.com$
+(^|\.)espn\.com$
+(^|\.)espncdn\.com$
 (^|\.)facebook\.[a-z]{1,6}$
 (^|\.)fb\.(com|me)$
 (^|\.)fbcdn\.net$
@@ -113,6 +122,7 @@
 (^|\.)googlevideo\.com$
 (^|\.)googleweblight\.com$
 (^|\.)googlezip\.net$
+(^|\.)gps\.com$
 (^|\.)gravatar\.com$
 (^|\.)greatfire\.org$
 (^|\.)gstatic\.com$
@@ -127,11 +137,16 @@
 (^|\.)jtvnw\.net$
 (^|\.)live\.com$
 (^|\.)livefilestore\.com$
+(^|\.)liveperson\.com$
+(^|\.)lpsnmedia\.net$
+(^|\.)lync\.com$
 (^|\.)m\.me$
+(^|\.)makecode\.org$
 (^|\.)medium\.com$
 (^|\.)messenger\.com$
 (^|\.)microsoft\.com$
 (^|\.)microsoftonline\.com$
+(^|\.)msdn\.com$
 (^|\.)msecnd\.net$
 (^|\.)msn\.com$
 (^|\.)msocdn\.com$
@@ -141,10 +156,12 @@
 (^|\.)office\.(com|net)$:
 (^|\.)onedrive\.com$
 (^|\.)onestore\.ms$
+(^|\.)optimizely\.com$
 (^|\.)outlook\.com$
 (^|\.)passport\.com$
 (^|\.)picasa\.com$
 (^|\.)pinimg\.com$
+(^|\.)pinpoint\.com$
 (^|\.)pinterest\.com$
 (^|\.)redd\.it$
 (^|\.)reddit\.com$
@@ -163,12 +180,15 @@
 (^|\.)surface\.com$
 (^|\.)svc\.ms$
 (^|\.)t\.(co|me)$
+(^|\.)teach\.org$
+(^|\.)technet\.com$
 (^|\.)telegram\.(org|me)$
 (^|\.)tensorflow\.org$
 (^|\.)thefacebook\.com$
 (^|\.)thinkwithgoogle\.com$
 (^|\.)ttvnw\.net$
 (^|\.)tumblr\.com$
+(^|\.)tv\.net$
 (^|\.)twimg\.com$
 (^|\.)twitch\.tv$
 (^|\.)twitchcdn\.net$

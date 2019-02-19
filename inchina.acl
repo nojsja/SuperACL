@@ -108,6 +108,9 @@
 (^|\.)googledrive\.com$
 (^|\.)googleearth\.com$
 (^|\.)googlegroups\.com$
+(^|\.)googlehosted\.com$
+(^|\.)googleideas\.com$
+(^|\.)googlelabs\.com$
 (^|\.)googlemail\.com$
 (^|\.)googlemaps\.com$
 (^|\.)googlephotos\.com$

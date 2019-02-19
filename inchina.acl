@@ -197,7 +197,7 @@
 (^|\.)twitch\.tv$
 (^|\.)twitchcdn\.net$
 (^|\.)twitchsvc\.net$
-(^|\.)twitter\.com$
+(^|\.)twitter\.[a-z]{2-6}$
 (^|\.)urchin\.com$
 (^|\.)v2ray\.com$
 (^|\.)visualstudio\.com$

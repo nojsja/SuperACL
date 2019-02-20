@@ -15,14 +15,13 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 240+ Items #
+# Total: 280+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the company name 
 
 [bypass_all]
-[proxy_list] 
+[proxy_list]
 
-#(^|\.)cn$
 (^|\.)126\.(com|net)$
 (^|\.)127\.net$
 (^|\.)163\.com$
@@ -54,6 +53,9 @@
 (^|\.)5054399\.com$
 (^|\.)56\.com$
 (^|\.)56img\.com$
+(^|\.)58\.com$
+(^|\.)58cdn\.com\.cn$
+(^|\.)61\.com$
 (^|\.)7fresh\.com$
 (^|\.)91\.com$
 (^|\.)9game\.cn$
@@ -65,6 +67,7 @@
 (^|\.)alicdn\.com$
 (^|\.)aliexpress\.com$
 (^|\.)aliimg\.com$
+(^|\.)alijk\.com$
 (^|\.)alikunlun\.com$
 (^|\.)aliloan\.com$
 (^|\.)alimama\.com$
@@ -117,16 +120,21 @@
 (^|\.)douyin\.com$
 (^|\.)dratio\.com$
 (^|\.)duapp\.com$
+(^|\.)eastday\.com$
 (^|\.)ele\.me$
 (^|\.)elemecdn\.com$
 (^|\.)etao\.com$
 (^|\.)everphoto\.cn$
 (^|\.)feizhu\.com$
+(^|\.)feng\.com$
 (^|\.)fengkongcloud\.com$
 (^|\.)fliggy\.com$
 (^|\.)focus-img\.cn$
 (^|\.)focus-res\.cn$
 (^|\.)focus\.cn$
+(^|\.)ganji\.com$
+(^|\.)ganjistatic1\.com$
+(^|\.)geetest\.com$
 (^|\.)gifshow\.com$
 (^|\.)go2map\.com$
 (^|\.)gov\.cn$
@@ -144,7 +152,11 @@
 (^|\.)huxiucdn\.com$
 (^|\.)i360mall\.com$
 (^|\.)icourse163\.org$
+(^|\.)ifeng\.com$
+(^|\.)ifengimg\.com$
 (^|\.)img4399\.com$
+(^|\.)ipinyou\.com$
+(^|\.)ipinyou\.com\.cn$
 (^|\.)iqiyi\.com$
 (^|\.)iqiyipic\.com$
 (^|\.)itc\.cn$
@@ -154,10 +166,14 @@
 (^|\.)jingguan\.ai$
 (^|\.)juhuasuan\.com$
 (^|\.)kada\.com$
+(^|\.)kankan\.com$
+(^|\.)km\.com$
 (^|\.)koubei\.com$
+(^|\.)laibafile\.cn$
 (^|\.)laifeng\.com$
 (^|\.)le\.com$
 (^|\.)lecloud\.com$
+(^|\.)leihuo\.net$
 (^|\.)lemall\.com$
 (^|\.)letv\.com$
 (^|\.)letvcdn\.com$
@@ -166,16 +182,23 @@
 (^|\.)lofter\.com$
 (^|\.)ludashi\.com$
 (^|\.)mediav\.com$
+(^|\.)mi-img\.com$
+(^|\.)mi\.com$
 (^|\.)miaopai\.com$
+(^|\.)mifile\.cn$
+(^|\.)miui\.com$
+(^|\.)miwifi\.com$
 (^|\.)mmstat\.com$
 (^|\.)myapp\.com$
 (^|\.)mybank\.cn$
 (^|\.)myqcloud\.com$
+(^|\.)myquark\.cn$
 (^|\.)netease\.(com|im)$
 (^|\.)nuomi\.com$
 (^|\.)ourdvsss\.com$
 (^|\.)paike\.com$
 (^|\.)paipai\.com$
+(^|\.)phoenixtv\.com$
 (^|\.)pp\.cn$
 (^|\.)pstatp\.com$
 (^|\.)qcloud\.com$
@@ -199,6 +222,9 @@
 (^|\.)qzone\.com$
 (^|\.)sc2yun\.com$
 (^|\.)shifen\.com$
+(^|\.)shuqi\.com$
+(^|\.)shuqireader\.com$
+(^|\.)shuqistat\.com$
 (^|\.)sina\.(com|cn)$
 (^|\.)sina\.com\.cn$
 (^|\.)sinaapp\.com$
@@ -206,6 +232,7 @@
 (^|\.)sinaimg\.cn$
 (^|\.)sinajs\.cn$
 (^|\.)sinastorage\.cn$
+(^|\.)sm\.cn$
 (^|\.)snssdk\.com$
 (^|\.)so\.com$
 (^|\.)sogo\.com$
@@ -218,6 +245,7 @@
 (^|\.)soku\.com$
 (^|\.)soso\.com$
 (^|\.)sou\.com$
+(^|\.)suning\.(com|cn)$
 (^|\.)t\.cn$
 (^|\.)taihe\.com$
 (^|\.)tanx\.com$
@@ -227,6 +255,8 @@
 (^|\.)tbcdn\.cn$
 (^|\.)tencent\.com$
 (^|\.)tenpay\.com$
+(^|\.)tianya\.cn$
+(^|\.)tianyaui\.com$
 (^|\.)tmall\.com$
 (^|\.)toplife\.com$
 (^|\.)toutiao\.com$
@@ -236,6 +266,8 @@
 (^|\.)tudou\.com$
 (^|\.)uc\.cn$
 (^|\.)ucfly\.com$
+(^|\.)ucweb\.com$
+(^|\.)uczzd\.cn$
 (^|\.)umeng\.com$
 (^|\.)upaiyun\.com$
 (^|\.)url\.cn$
@@ -245,6 +277,7 @@
 (^|\.)weibo\.(com|cn)$
 (^|\.)weishi\.com$
 (^|\.)weixin\.com$
+(^|\.)weiyang\.cn$
 (^|\.)weiyun\.com$
 (^|\.)wrating\.com$
 (^|\.)wukong\.com$
@@ -252,6 +285,7 @@
 (^|\.)www\.net\.cn$
 (^|\.)xiami\.(com|net)$
 (^|\.)xiaodutv\.com$
+(^|\.)xiaomi\.(com|cn|net)$
 (^|\.)yeah\.net$
 (^|\.)yhd\.com$
 (^|\.)yidun\.com$
@@ -265,5 +299,6 @@
 (^|\.)yunshangdian\.com$
 (^|\.)yx-s\.com$
 (^|\.)z\.cn$
+(^|\.)zhaopin\.(com|cn)$
 (^|\.)zhihu\.com$
 (^|\.)zhimg\.com$

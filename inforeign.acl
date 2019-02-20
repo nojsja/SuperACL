@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 180+ Items #
+# Total: 240+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the company name 
 
@@ -130,8 +130,7 @@
 (^|\.)gifshow\.com$
 (^|\.)go2map\.com$
 (^|\.)gov\.cn$
-(^|\.)gtimg\.cn$
-(^|\.)gtimg\.com$
+(^|\.)gtimg\.(com|cn)$
 (^|\.)hao123\.com$
 (^|\.)hao123img\.com$
 (^|\.)haosou\.com$

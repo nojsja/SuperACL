@@ -20,6 +20,7 @@
 # In the order of the English initials A-Z of the company name 
 
 [bypass_all]
+
 [proxy_list]
 
 (^|\.)126\.(com|net)$

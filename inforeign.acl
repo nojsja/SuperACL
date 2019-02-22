@@ -159,8 +159,7 @@
 (^|\.)dingtalk\.com$
 (^|\.)dongchediapp\.com$
 (^|\.)dongting\.com$
-(^|\.)douban\.com$
-(^|\.)douban\.fm$
+(^|\.)douban\.(com|fm)$
 (^|\.)doubanio\.com$
 (^|\.)douyin\.com$
 (^|\.)dpfile\.com$
@@ -374,8 +373,7 @@
 (^|\.)spriteapp\.cn$
 (^|\.)sspai\.com$
 (^|\.)suning\.(com|cn)$
-(^|\.)t\.cn$
-(^|\.)t\.tt$
+(^|\.)t\.(cn|tt)$
 (^|\.)taihe\.com$
 (^|\.)tanx\.com$
 (^|\.)taobao\.(com|org)$

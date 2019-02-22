@@ -215,8 +215,7 @@
 (^|\.)huoshanzhibo\.com$
 (^|\.)hupu\.com$
 (^|\.)hupucdn\.com$
-(^|\.)huxiu\.com$
-(^|\.)huxiu\.net$
+(^|\.)huxiu\.(com|net)$
 (^|\.)huxiucdn\.com$
 (^|\.)i360mall\.com$
 (^|\.)icourse163\.org$
@@ -408,8 +407,7 @@
 (^|\.)vdisk\.me$
 (^|\.)vmall\.com$
 (^|\.)vmallres\.com$
-(^|\.)wasu\.cn$
-(^|\.)wasu\.tv$
+(^|\.)wasu\.(cn|tv)$
 (^|\.)wegame\.com$
 (^|\.)weibo\.(com|cn)$
 (^|\.)weipan\.cn$

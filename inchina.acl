@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 200+ Items #
+# Total: 210+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the product or brand name 
 
@@ -55,6 +55,7 @@
 (^|\.)blogger\.com$
 (^|\.)blogspot\.com$
 (^|\.)branch\.io$
+(^|\.)bscstorage\.net$
 (^|\.)cdninstagram\.com$
 (^|\.)celsoazevedo\.com$
 (^|\.)chinatimes\.com$
@@ -184,6 +185,10 @@
 (^|\.)skypeassets\.com$
 (^|\.)sourceforge\.net$
 (^|\.)staticflickr\.com$
+(^|\.)steamcommunity\.com$
+(^|\.)steampowered\.com$
+(^|\.)steamstatic\.com$
+(^|\.)steamusercontent\.com$
 (^|\.)surface\.com$
 (^|\.)svc\.ms$
 (^|\.)t\.(co|me)$
@@ -221,6 +226,7 @@
 (^|\.)xbox\.com$
 (^|\.)xda-cdn\.com$
 (^|\.)xda-developers\.com$
+(^|\.)yahoo\.(com|net)$
 (^|\.)yimg\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$

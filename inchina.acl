@@ -17,7 +17,7 @@
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
 # Total: 210+ Items #
 #-–-–-–-–-–-–-–-–-–-+
-# In the order of the English initials A-Z of the product or brand name 
+# In the order of the English initials A-Z of the product or brand name
 
 [bypass_all]
 [proxy_list]
@@ -35,25 +35,35 @@
 (^|\.)akamaitechnologies\.com$
 (^|\.)akamaized\.net$
 (^|\.)alexa\.com$
+(^|\.)amazon\.co\.jp$
+(^|\.)amazon\.com$
 (^|\.)amazonaws\.com$
+(^|\.)android-x86\.org$
 (^|\.)android\.com$
 (^|\.)androidify\.com$
+(^|\.)aol\.com$
+(^|\.)aolcdn\.com$
 (^|\.)apkmirror\.com$
 (^|\.)apkpure\.com$
 (^|\.)app\.link$
 (^|\.)appspot\.com$
 (^|\.)aptoide\.com$
+(^|\.)archive\.org$
 (^|\.)asp\.net$
 (^|\.)aspnetcdn\.com$
 (^|\.)azure\.(com|net)$
 (^|\.)azureedge\.net$
 (^|\.)azurewebsites\.net$
+(^|\.)bbc\.co\.uk$
+(^|\.)bbc\.com$
+(^|\.)bbci\.co\.uk$
 (^|\.)bing\.(com|net)$
 (^|\.)bingapis\.com$
 (^|\.)blink\.org$
 (^|\.)blogblog\.com$
 (^|\.)blogger\.com$
 (^|\.)blogspot\.com$
+(^|\.)blogsys\.jp$
 (^|\.)branch\.io$
 (^|\.)bscstorage\.net$
 (^|\.)cdninstagram\.com$
@@ -70,8 +80,15 @@
 (^|\.)docs\.com$
 (^|\.)dot\.net$
 (^|\.)doubleclick\.(com|net)$
+(^|\.)dropbox\.com$
+(^|\.)dropboxapi\.com$
+(^|\.)dropboxstatic\.com$
+(^|\.)dropboxusercontent\.com$
 (^|\.)duckduckgo\.com$
 (^|\.)dynamics\.com$
+(^|\.)ebay\.com$
+(^|\.)ebaystatic\.com$
+(^|\.)edgecastcdn\.net$
 (^|\.)eshop\.com$
 (^|\.)espn\.com$
 (^|\.)espncdn\.com$
@@ -135,7 +152,9 @@
 (^|\.)gvt[0-9]\.com$
 (^|\.)hotmail\.com$
 (^|\.)i\.org$
+(^|\.)iana\.org$
 (^|\.)iis\.net$
+(^|\.)imdb\.com$
 (^|\.)imgur\.com$
 (^|\.)instagr\.am$
 (^|\.)instagram\.com$
@@ -143,10 +162,12 @@
 (^|\.)live\.com$
 (^|\.)livefilestore\.com$
 (^|\.)liveperson\.com$
+(^|\.)liveperson\.net$
 (^|\.)lpsnmedia\.net$
 (^|\.)lync\.com$
 (^|\.)m\.me$
 (^|\.)makecode\.org$
+(^|\.)media-amazon\.com$
 (^|\.)medium\.com$
 (^|\.)messenger\.com$
 (^|\.)microsoft\.com$
@@ -155,6 +176,7 @@
 (^|\.)msecnd\.net$
 (^|\.)msn\.com$
 (^|\.)msocdn\.com$
+(^|\.)oath\.com$
 (^|\.)oculus\.com$
 (^|\.)oculuscdn\.com$
 (^|\.)office365\.com$
@@ -168,6 +190,7 @@
 (^|\.)pinimg\.com$
 (^|\.)pinpoint\.com$
 (^|\.)pinterest\.com$
+(^|\.)recaptcha\.net$
 (^|\.)redd\.it$
 (^|\.)reddit\.com$
 (^|\.)redditmedia\.com$
@@ -194,6 +217,7 @@
 (^|\.)t\.(co|me)$
 (^|\.)teach\.org$
 (^|\.)technet\.com$
+(^|\.)teddysun\.com$
 (^|\.)telegram\.(org|me)$
 (^|\.)tensorflow\.org$
 (^|\.)thefacebook\.com$
@@ -208,6 +232,9 @@
 (^|\.)twitter\.[a-z]{2-6}$
 (^|\.)urchin\.com$
 (^|\.)v2ray\.com$
+(^|\.)verizon\.com$
+(^|\.)verizondigitalmedia\.com$
+(^|\.)verizonwireless\.com$
 (^|\.)visualstudio\.com$
 (^|\.)whatbrowser\.org$
 (^|\.)whatsapp\.(com|net)$
@@ -227,6 +254,7 @@
 (^|\.)xda-cdn\.com$
 (^|\.)xda-developers\.com$
 (^|\.)yahoo\.(com|net)$
+(^|\.)yahoo\.com$
 (^|\.)yimg\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$

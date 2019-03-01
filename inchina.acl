@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 210+ Items #
+# Total: 240+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the product or brand name
 
@@ -56,7 +56,6 @@
 (^|\.)azurewebsites\.net$
 (^|\.)bbc\.co\.uk$
 (^|\.)bbc\.com$
-(^|\.)bbci\.co\.uk$
 (^|\.)bing\.(com|net)$
 (^|\.)bingapis\.com$
 (^|\.)blink\.org$

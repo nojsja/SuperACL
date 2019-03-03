@@ -255,6 +255,7 @@
 (^|\.)yahoo\.(com|net)$
 (^|\.)yahoo\.com$
 (^|\.)yimg\.com$
+
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
 (^|\.)youtube\.com$

@@ -234,7 +234,7 @@
 (^|\.)twitch\.tv$
 (^|\.)twitchcdn\.net$
 (^|\.)twitchsvc\.net$
-(^|\.)twitter\.[a-z]{2-6}$
+(^|\.)twitter\.[a-z]{2,6}$
 (^|\.)urchin\.com$
 (^|\.)v2ray\.com$
 (^|\.)verizon\.com$

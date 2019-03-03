@@ -38,6 +38,7 @@
 (^|\.)amazon\.co\.jp$
 (^|\.)amazon\.com$
 (^|\.)amazonaws\.com$
+(^|\.)amp\.services$
 (^|\.)android-x86\.org$
 (^|\.)android\.com$
 (^|\.)androidify\.com$
@@ -63,6 +64,7 @@
 (^|\.)blogger\.com$
 (^|\.)blogspot\.com$
 (^|\.)blogsys\.jp$
+(^|\.)bootstrapcdn\.com$
 (^|\.)branch\.io$
 (^|\.)bscstorage\.net$
 (^|\.)cdninstagram\.com$
@@ -71,6 +73,7 @@
 (^|\.)chrome\.com$
 (^|\.)chromebook\.com$
 (^|\.)chromecast\.com$
+(^|\.)chromestatus\.com$
 (^|\.)chromium\.org$
 (^|\.)cloudflare\.com$
 (^|\.)cloudflarestream.com\.org$
@@ -157,6 +160,7 @@
 (^|\.)imgur\.com$
 (^|\.)instagr\.am$
 (^|\.)instagram\.com$
+(^|\.)jsdelivr\.net$
 (^|\.)jtvnw\.net$
 (^|\.)live\.com$
 (^|\.)livefilestore\.com$
@@ -189,6 +193,7 @@
 (^|\.)pinimg\.com$
 (^|\.)pinpoint\.com$
 (^|\.)pinterest\.com$
+(^|\.)plurk\.com$
 (^|\.)recaptcha\.net$
 (^|\.)redd\.it$
 (^|\.)reddit\.com$
@@ -221,6 +226,7 @@
 (^|\.)tensorflow\.org$
 (^|\.)thefacebook\.com$
 (^|\.)thinkwithgoogle\.com$
+(^|\.)translate\.com$
 (^|\.)ttvnw\.net$
 (^|\.)tumblr\.com$
 (^|\.)tv\.net$

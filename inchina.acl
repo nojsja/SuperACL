@@ -79,6 +79,8 @@
 (^|\.)cloudflarestream.com\.org$
 (^|\.)cloudfront\.net$
 (^|\.)discordapp\.com$
+(^|\.)disqus\.com$
+(^|\.)disquscdn\.com$
 (^|\.)docs\.com$
 (^|\.)dot\.net$
 (^|\.)doubleclick\.(com|net)$
@@ -91,6 +93,7 @@
 (^|\.)ebay\.com$
 (^|\.)ebaystatic\.com$
 (^|\.)edgecastcdn\.net$
+(^|\.)edu\.tw$
 (^|\.)eshop\.com$
 (^|\.)espn\.com$
 (^|\.)espncdn\.com$
@@ -146,6 +149,7 @@
 (^|\.)googlevideo\.com$
 (^|\.)googleweblight\.com$
 (^|\.)googlezip\.net$
+(^|\.)gov\.tw$
 (^|\.)gps\.com$
 (^|\.)gravatar\.com$
 (^|\.)greatfire\.org$
@@ -162,6 +166,8 @@
 (^|\.)instagram\.com$
 (^|\.)jsdelivr\.net$
 (^|\.)jtvnw\.net$
+(^|\.)licdn\.com$
+(^|\.)linkedin\.co$
 (^|\.)live\.com$
 (^|\.)livefilestore\.com$
 (^|\.)liveperson\.com$
@@ -170,6 +176,7 @@
 (^|\.)lync\.com$
 (^|\.)m\.me$
 (^|\.)makecode\.org$
+(^|\.)marketo\.com$
 (^|\.)media-amazon\.com$
 (^|\.)medium\.com$
 (^|\.)messenger\.com$
@@ -179,6 +186,8 @@
 (^|\.)msecnd\.net$
 (^|\.)msn\.com$
 (^|\.)msocdn\.com$
+(^|\.)netcraft\.com$
+(^|\.)nextcloud\.com$
 (^|\.)oath\.com$
 (^|\.)oculus\.com$
 (^|\.)oculuscdn\.com$
@@ -188,6 +197,7 @@
 (^|\.)onestore\.ms$
 (^|\.)optimizely\.com$
 (^|\.)outlook\.com$
+(^|\.)owncloud\.org$
 (^|\.)passport\.com$
 (^|\.)picasa\.com$
 (^|\.)pinimg\.com$
@@ -199,6 +209,7 @@
 (^|\.)reddit\.com$
 (^|\.)redditmedia\.com$
 (^|\.)redditstatic\.com$
+(^|\.)roguewave\.com$
 (^|\.)s-microsoft\.com$
 (^|\.)s-msft\.com$
 (^|\.)sf\.net$
@@ -241,6 +252,7 @@
 (^|\.)verizondigitalmedia\.com$
 (^|\.)verizonwireless\.com$
 (^|\.)visualstudio\.com$
+(^|\.)w\.org$
 (^|\.)whatbrowser\.org$
 (^|\.)whatsapp\.(com|net)$
 (^|\.)wikimedia\.org$
@@ -254,6 +266,7 @@
 (^|\.)withyoutube\.com$
 (^|\.)wordpress\.com$
 (^|\.)wp\.com$
+(^|\.)wp\.me$
 (^|\.)xamarin\.com$
 (^|\.)xbox\.com$
 (^|\.)xda-cdn\.com$
@@ -269,3 +282,4 @@
 (^|\.)youtubekids\.com$
 (^|\.)yt\.be$
 (^|\.)ytimg\.com$
+(^|\.)zend\.com$

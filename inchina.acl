@@ -65,6 +65,8 @@
 (^|\.)blogspot\.com$
 (^|\.)blogsys\.jp$
 (^|\.)bootstrapcdn\.com$
+(^|\.)box\.com$
+(^|\.)boxcdn\.net$
 (^|\.)branch\.io$
 (^|\.)bscstorage\.net$
 (^|\.)cdninstagram\.com$
@@ -161,12 +163,15 @@
 (^|\.)iana\.org$
 (^|\.)iis\.net$
 (^|\.)imdb\.com$
+(^|\.)imgsmail\.ru$
 (^|\.)imgur\.com$
 (^|\.)instagr\.am$
 (^|\.)instagram\.com$
 (^|\.)jsdelivr\.net$
 (^|\.)jtvnw\.net$
 (^|\.)licdn\.com$
+(^|\.)line-scdn\.net$
+(^|\.)line\.me$
 (^|\.)linkedin\.co$
 (^|\.)live\.com$
 (^|\.)livefilestore\.com$
@@ -175,6 +180,7 @@
 (^|\.)lpsnmedia\.net$
 (^|\.)lync\.com$
 (^|\.)m\.me$
+(^|\.)mail\.ru$
 (^|\.)makecode\.org$
 (^|\.)marketo\.com$
 (^|\.)media-amazon\.com$
@@ -186,6 +192,7 @@
 (^|\.)msecnd\.net$
 (^|\.)msn\.com$
 (^|\.)msocdn\.com$
+(^|\.)naver\.jp$
 (^|\.)netcraft\.com$
 (^|\.)nextcloud\.com$
 (^|\.)oath\.com$
@@ -203,6 +210,7 @@
 (^|\.)pinimg\.com$
 (^|\.)pinpoint\.com$
 (^|\.)pinterest\.com$
+(^|\.)pixiv\.net$
 (^|\.)plurk\.com$
 (^|\.)recaptcha\.net$
 (^|\.)redd\.it$
@@ -212,6 +220,8 @@
 (^|\.)roguewave\.com$
 (^|\.)s-microsoft\.com$
 (^|\.)s-msft\.com$
+(^|\.)sc-cdn\.net$
+(^|\.)sc-static\.net$
 (^|\.)sf\.net$
 (^|\.)sfx\.ms$
 (^|\.)shadowsocks\.org$
@@ -221,7 +231,10 @@
 (^|\.)similarweb\.com$
 (^|\.)skype\.com$
 (^|\.)skypeassets\.com$
+(^|\.)snap\.com$
+(^|\.)snapchat\.com$
 (^|\.)sourceforge\.net$
+(^|\.)spectacles\.com$
 (^|\.)staticflickr\.com$
 (^|\.)steamcommunity\.com$
 (^|\.)steampowered\.com$
@@ -273,6 +286,7 @@
 (^|\.)xda-developers\.com$
 (^|\.)yahoo\.(com|net)$
 (^|\.)yahoo\.com$
+(^|\.)yandex\.(com|ru)$
 (^|\.)yimg\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$

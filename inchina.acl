@@ -278,8 +278,7 @@
 (^|\.)withgoogle\.com$
 (^|\.)withyoutube\.com$
 (^|\.)wordpress\.com$
-(^|\.)wp\.com$
-(^|\.)wp\.me$
+(^|\.)wp\.(com|me)$
 (^|\.)xamarin\.com$
 (^|\.)xbox\.com$
 (^|\.)xda-cdn\.com$

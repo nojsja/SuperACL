@@ -210,7 +210,7 @@
 (^|\.)pinimg\.com$
 (^|\.)pinpoint\.com$
 (^|\.)pinterest\.com$
-(^|\.)pixiv\.net$
+(^|\.)pixiv\.(net|org|help)$
 (^|\.)plurk\.com$
 (^|\.)recaptcha\.net$
 (^|\.)redd\.it$

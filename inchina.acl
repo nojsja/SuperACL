@@ -175,8 +175,7 @@
 (^|\.)linkedin\.co$
 (^|\.)live\.com$
 (^|\.)livefilestore\.com$
-(^|\.)liveperson\.com$
-(^|\.)liveperson\.net$
+(^|\.)liveperson\.(com|net)$
 (^|\.)lpsnmedia\.net$
 (^|\.)lync\.com$
 (^|\.)m\.me$

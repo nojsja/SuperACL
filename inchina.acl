@@ -211,6 +211,7 @@
 (^|\.)pinpoint\.com$
 (^|\.)pinterest\.com$
 (^|\.)pixiv\.(net|org|help)$
+(^|\.)pixiv\.co\.jp$
 (^|\.)plurk\.com$
 (^|\.)recaptcha\.net$
 (^|\.)redd\.it$

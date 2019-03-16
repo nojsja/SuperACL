@@ -72,8 +72,8 @@
 (^|\.)51jingying\.com$
 (^|\.)51job\.com$
 (^|\.)51jobcdn\.com$
-(^|\.)52pojie\.cn$
 (^|\.)52pk\.com$
+(^|\.)52pojie\.cn$
 (^|\.)56\.com$
 (^|\.)56img\.com$
 (^|\.)58\.com$
@@ -156,6 +156,7 @@
 (^|\.)bytedance\.com$
 (^|\.)c-ctrip\.com$
 (^|\.)ccb\.com$
+(^|\.)cctv4g\.com$
 (^|\.)cctv\.com$
 (^|\.)cctvpic\.com$
 (^|\.)ce\.cn$
@@ -181,11 +182,15 @@
 (^|\.)cmbchina\.com$
 (^|\.)cmcm\.com$
 (^|\.)cmcmcdn\.com$
+(^|\.)cmgame\.com$
+(^|\.)cmread\.com$
 (^|\.)cmstop\.com$
+(^|\.)cmvideo\.cn$
 (^|\.)cnbeta\.com$
 (^|\.)cnbetacdn\.com$
 (^|\.)cnmo-img\.com\.cn$
 (^|\.)cnmo\.com$
+(^|\.)cnnic\.cn$
 (^|\.)cnr\.cn$
 (^|\.)cntv\.cn$
 (^|\.)cntvwb\.cn$
@@ -209,6 +214,7 @@
 (^|\.)dhrest\.com$
 (^|\.)dianping\.com$
 (^|\.)dingtalk\.com$
+(^|\.)dnion\.com$
 (^|\.)docer\.com$
 (^|\.)dongchediapp\.com$
 (^|\.)dongting\.com$
@@ -237,8 +243,11 @@
 (^|\.)etao\.com$
 (^|\.)everphoto\.cn$
 (^|\.)fang\.com$
+(^|\.)fastcdn\.com$
 (^|\.)fastweb\.com\.cn$
+(^|\.)fbcontent\.cn$
 (^|\.)feizhu\.com$
+(^|\.)fenbi\.com$
 (^|\.)feng\.com$
 (^|\.)fengkongcloud\.com$
 (^|\.)fliggy\.com$
@@ -293,6 +302,7 @@
 (^|\.)huxiu\.(com|net)$
 (^|\.)huxiucdn\.com$
 (^|\.)huya\.com$
+(^|\.)hwclouds-dns\.com$
 (^|\.)hxb\.com\.cn$
 (^|\.)i360mall\.com$
 (^|\.)icbc\.com\.cn$
@@ -377,6 +387,9 @@
 (^|\.)mi\.com$
 (^|\.)miaopai\.com$
 (^|\.)mifile\.cn$
+(^|\.)migu\.cn$
+(^|\.)migutv\.com$
+(^|\.)miguvideo\.com$
 (^|\.)miui\.com$
 (^|\.)miwifi\.com$
 (^|\.)mmstat\.com$
@@ -394,6 +407,7 @@
 (^|\.)myquark\.cn$
 (^|\.)neoimaging\.cn$
 (^|\.)netease\.(com|im)$
+(^|\.)neusoft\.com$
 (^|\.)newdefend\.com$
 (^|\.)newhua\.com$
 (^|\.)news\.cn$
@@ -600,6 +614,8 @@
 (^|\.)youdao\.com$
 (^|\.)youku\.com$
 (^|\.)youth\.cn$
+(^|\.)yuanfudao\.com$
+(^|\.)yuantiku\.com$
 (^|\.)yunaq\.com$
 (^|\.)yunos\.com$
 (^|\.)yunpan\.cn$
@@ -611,6 +627,7 @@
 (^|\.)zdmimg\.com$
 (^|\.)zhanqi\.tv$
 (^|\.)zhaopin\.(com|cn)$
+(^|\.)zhenguanyu\.com$
 (^|\.)zhihu\.com$
 (^|\.)zhimg\.com$
 (^|\.)zidanduanxin\.(com|net)$

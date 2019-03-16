@@ -169,6 +169,7 @@
 (^|\.)instagram\.com$
 (^|\.)jsdelivr\.net$
 (^|\.)jtvnw\.net$
+(^|\.)kmt\.org\.tw$
 (^|\.)licdn\.com$
 (^|\.)line-scdn\.net$
 (^|\.)line\.me$
@@ -201,6 +202,7 @@
 (^|\.)office\.(com|net)$:
 (^|\.)onedrive\.com$
 (^|\.)onestore\.ms$
+(^|\.)openrepos\.net$
 (^|\.)optimizely\.com$
 (^|\.)outlook\.com$
 (^|\.)owncloud\.org$

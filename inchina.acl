@@ -39,6 +39,7 @@
 (^|\.)amazon\.com$
 (^|\.)amazonaws\.com$
 (^|\.)amp\.services$
+(^|\.)ampproject\.org$
 (^|\.)android-x86\.org$
 (^|\.)android\.com$
 (^|\.)androidify\.com$

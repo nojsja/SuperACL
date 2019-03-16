@@ -78,7 +78,7 @@
 (^|\.)chromestatus\.com$
 (^|\.)chromium\.org$
 (^|\.)cloudflare\.com$
-(^|\.)cloudflarestream.com\.org$
+(^|\.)cloudflarestream\.com$
 (^|\.)cloudfront\.net$
 (^|\.)discordapp\.com$
 (^|\.)disqus\.com$

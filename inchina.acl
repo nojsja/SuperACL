@@ -292,7 +292,7 @@
 (^|\.)yimg\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
-(^|\.)youtube\.com$
+(^|\.)youtube\.com
 (^|\.)youtubeeducation\.com$
 (^|\.)youtubegaming\.com$
 (^|\.)youtubekids\.com$

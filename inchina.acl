@@ -23,6 +23,7 @@
 [proxy_list]
 
 (^|\.)1drv\.(com|ms)$
+(^|\.)3gpp\.org$
 (^|\.)466453\.com$
 (^|\.)abc\.xyz$
 (^|\.)admob\.com$
@@ -91,6 +92,7 @@
 (^|\.)dropboxapi\.com$
 (^|\.)dropboxstatic\.com$
 (^|\.)dropboxusercontent\.com$
+(^|\.)drupal\.org$
 (^|\.)duckduckgo\.com$
 (^|\.)dynamics\.com$
 (^|\.)ebay\.com$
@@ -106,6 +108,8 @@
 (^|\.)fbsbx\.com$
 (^|\.)firebaseapp\.com$
 (^|\.)flickr\.com$
+(^|\.)free-ss\.[a-z]+$
+(^|\.)fsdn\.com$
 (^|\.)g\.co$
 (^|\.)gcr\.io$
 (^|\.)gfx\.ms$
@@ -118,6 +122,7 @@
 (^|\.)gle$
 (^|\.)gmail\.com$
 (^|\.)gmodules\.com$
+(^|\.)gnu\.org$
 (^|\.)goo\.gl$
 (^|\.)goog$
 (^|\.)google$
@@ -168,9 +173,11 @@
 (^|\.)imgur\.com$
 (^|\.)instagr\.am$
 (^|\.)instagram\.com$
+(^|\.)joomla\.org$
 (^|\.)jsdelivr\.net$
 (^|\.)jtvnw\.net$
 (^|\.)kmt\.org\.tw$
+(^|\.)leaseweb\.(com|net)$
 (^|\.)licdn\.com$
 (^|\.)line-scdn\.net$
 (^|\.)line\.me$
@@ -206,8 +213,11 @@
 (^|\.)openrepos\.net$
 (^|\.)optimizely\.com$
 (^|\.)outlook\.com$
+(^|\.)owncloud\.(com|org)$
 (^|\.)owncloud\.org$
 (^|\.)passport\.com$
+(^|\.)phpmyadmin\.net$
+(^|\.)phpmyfaq\.de$
 (^|\.)picasa\.com$
 (^|\.)pinimg\.com$
 (^|\.)pinpoint\.com$
@@ -215,6 +225,10 @@
 (^|\.)pixiv\.(net|org|help)$
 (^|\.)pixiv\.co\.jp$
 (^|\.)plurk\.com$
+(^|\.)qubit\.com$
+(^|\.)qubitproducts\.com$
+(^|\.)raspberrypi\.org$
+(^|\.)raspbian\.org$
 (^|\.)recaptcha\.net$
 (^|\.)redd\.it$
 (^|\.)reddit\.com$
@@ -251,6 +265,7 @@
 (^|\.)teddysun\.com$
 (^|\.)telegram\.(org|me)$
 (^|\.)tensorflow\.org$
+(^|\.)textnow\.com$
 (^|\.)thefacebook\.com$
 (^|\.)thinkwithgoogle\.com$
 (^|\.)translate\.com$
@@ -262,6 +277,11 @@
 (^|\.)twitchcdn\.net$
 (^|\.)twitchsvc\.net$
 (^|\.)twitter\.[a-z]{2,6}$
+(^|\.)twrp\.me$
+(^|\.)ubi\.(com|li)$
+(^|\.)ubisoft\.com$
+(^|\.)unicode\.org$
+(^|\.)uplay\.com$
 (^|\.)urchin\.com$
 (^|\.)v2ray\.com$
 (^|\.)verizon\.com$
@@ -271,6 +291,7 @@
 (^|\.)w\.org$
 (^|\.)whatbrowser\.org$
 (^|\.)whatsapp\.(com|net)$
+(^|\.)wikileaks\.org$
 (^|\.)wikimedia\.org$
 (^|\.)wikipedia\.org$
 (^|\.)windows\.(com|net)$
@@ -281,6 +302,7 @@
 (^|\.)withgoogle\.com$
 (^|\.)withyoutube\.com$
 (^|\.)wordpress\.com$
+(^|\.)wordpress\.org$
 (^|\.)wp\.(com|me)$
 (^|\.)xamarin\.com$
 (^|\.)xbox\.com$
@@ -299,6 +321,3 @@
 (^|\.)yt\.be$
 (^|\.)ytimg\.com$
 (^|\.)zend\.com$
-
-
-

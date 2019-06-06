@@ -280,6 +280,8 @@
 (^|\.)twrp\.me$
 (^|\.)ubi\.(com|li)$
 (^|\.)ubisoft\.com$
+(^|\.)udn\.com$
+(^|\.)udn\.com\.tw$
 (^|\.)unicode\.org$
 (^|\.)uplay\.com$
 (^|\.)urchin\.com$

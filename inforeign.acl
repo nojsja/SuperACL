@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 600+ Items #
+# Total: 620+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the company name 
 
@@ -337,6 +337,7 @@
 (^|\.)jiemian\.com$
 (^|\.)jingguan\.ai$
 (^|\.)jingwei\.com$
+(^|\.)jsbc\.com$
 (^|\.)jstv\.com$
 (^|\.)juhuasuan\.com$
 (^|\.)kada\.com$
@@ -349,6 +350,7 @@
 (^|\.)koubei\.com$
 (^|\.)ksyun\.com$
 (^|\.)ku6\.com$
+(^|\.)kuaishou\.com$
 (^|\.)kuaizip\.com$
 (^|\.)kugou\.com$
 (^|\.)kuwo\.cn$
@@ -379,6 +381,7 @@
 (^|\.)ludashi\.com$
 (^|\.)m1905\.cn$
 (^|\.)mafengwo\.(cn|net)$
+(^|\.)makefont\.com$
 (^|\.)maxthon\.cn$
 (^|\.)mediav\.com$
 (^|\.)meituan\.(com|net)$
@@ -390,6 +393,7 @@
 (^|\.)migu\.cn$
 (^|\.)migutv\.com$
 (^|\.)miguvideo\.com$
+(^|\.)mipcdn\.com$
 (^|\.)miui\.com$
 (^|\.)miwifi\.com$
 (^|\.)mmstat\.com$
@@ -398,6 +402,7 @@
 (^|\.)moji\.com$
 (^|\.)mop\.com$
 (^|\.)mopimg\.cn$
+(^|\.)mozilla\.com\.cn$
 (^|\.)msstatic\.com$
 (^|\.)myapp\.com$
 (^|\.)mybank\.cn$
@@ -541,6 +546,7 @@
 (^|\.)tmcdn\.net$
 (^|\.)toplife\.com$
 (^|\.)toutiao\.com$
+(^|\.)toutiaoimg\.com$
 (^|\.)trip\.com$
 (^|\.)ttpod\.com$
 (^|\.)tuchong\.(com|net)$
@@ -551,6 +557,7 @@
 (^|\.)uczzd\.cn$
 (^|\.)umeng\.com$
 (^|\.)upaiyun\.com$
+(^|\.)upyun\.com$
 (^|\.)url\.cn$
 (^|\.)v-56\.com$
 (^|\.)v1\.cn$
@@ -621,6 +628,7 @@
 (^|\.)yunpan\.cn$
 (^|\.)yunshangdian\.com$
 (^|\.)yx-s\.com$
+(^|\.)yximgs\.com$
 (^|\.)yy\.com$
 (^|\.)yystatic\.com$
 (^|\.)z\.cn$
@@ -631,6 +639,7 @@
 (^|\.)zhihu\.com$
 (^|\.)zhimg\.com$
 (^|\.)zidanduanxin\.(com|net)$
+(^|\.)zijieimg\.com$
 (^|\.)zol-img\.com\.cn$
 (^|\.)zol\.com$
 (^|\.)zol\.com\.cn$

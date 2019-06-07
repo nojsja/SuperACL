@@ -282,9 +282,14 @@
 (^|\.)ubisoft\.com$
 (^|\.)udn\.com$
 (^|\.)udn\.com\.tw$
+(^|\.)udndata\.com$
+(^|\.)udnfunlife\.com$
+(^|\.)udngroup\.com$
 (^|\.)unicode\.org$
 (^|\.)uplay\.com$
+(^|\.)uptodown\.com$
 (^|\.)urchin\.com$
+(^|\.)utdstc\.com$
 (^|\.)v2ray\.com$
 (^|\.)verizon\.com$
 (^|\.)verizondigitalmedia\.com$

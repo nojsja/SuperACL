@@ -21,3 +21,12 @@
 
 [bypass_all]
 [proxy_list]
+
+(^|\.)apkpure\.com$
+(^|\.)g\.co$
+(^|\.)github\.com$
+(^|\.)goo\.gl$
+(^|\.)goog$
+(^|\.)google$
+(^|\.)google\.[a-z]+$
+(^|\.)google\.com?\.[a-z][a-z]$

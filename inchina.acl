@@ -30,3 +30,5 @@
 (^|\.)google$
 (^|\.)google\.[a-z]+$
 (^|\.)google\.com?\.[a-z][a-z]$
+(^|\.)youtu\.be$
+(^|\.)youtube\.com$

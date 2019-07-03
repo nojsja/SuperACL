@@ -18,7 +18,7 @@
 
 _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的同步源_
 
-**前排提示: 因本作者现已开学，所以本项目除主要文件外其他文件全部 Delay 更新，但两份规则文件仍会保持每日更新！**  
+**前排提示: 因本作者现已开学，所以本项目除主要文件外其他文件全部 Delay 更新，但两份规则文件仍会保持每周更新！**  
 **终止时间: 2019年2月17日 终止版本号: 1.08-Alpha1-Pre4 （不再继续累加版本，停止同步，但文件持续更新）**  
 
 ## 简介
@@ -72,7 +72,7 @@ _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的�
 
 
 ## 版权
-* Copyright &copy; 2016-2019 NciYuan! Team. Common Rights Statement.
 * Copyright &copy; 2019 Guan 'Windelight' MingZheng. All Rights Reserved.  
+* Copyright &copy; 2016-2019 NciYuan! Team. Common Rights Statement.
 
 *** MIT License ***

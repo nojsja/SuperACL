@@ -31,8 +31,6 @@
 (^|\.)ggpht\.com$
 (^|\.)github\.com$
 (^|\.)goo\.gl$
-(^|\.)goog$
-(^|\.)google$
 (^|\.)google\.[a-z]+$
 (^|\.)google\.com?\.[a-z][a-z]$
 (^|\.)googleusercontent\.com$

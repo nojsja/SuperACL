@@ -29,8 +29,7 @@
 (^|\.)dropbox\.com$
 (^|\.)duck\.com$
 (^|\.)duckduckgo\.com$
-(^|\.)facebook\.com$
-(^|\.)facebook\.net$
+(^|\.)facebook\.(com|net)$
 (^|\.)g\.co$
 (^|\.)ggpht\.com$
 (^|\.)github\.com$

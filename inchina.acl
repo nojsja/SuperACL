@@ -23,6 +23,8 @@
 [proxy_list]
 
 (^|\.)abc\.xyz$
+(^|\.)amazonaws\.com$
+(^|\.)apkmirror\.com$
 (^|\.)apkpure\.com$
 (^|\.)aptoide\.com$
 (^|\.)archive\.org$
@@ -49,6 +51,7 @@
 (^|\.)twimg\.com$
 (^|\.)twitter\.com$
 (^|\.)wikipedia\.org$
+(^|\.)winudf\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube\.com$
 (^|\.)ytimg\.com$

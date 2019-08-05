@@ -52,6 +52,7 @@
 (^|\.)googleusercontent\.com$
 (^|\.)googlevideo\.com$
 (^|\.)googlezip\.net$
+(^|\.)imgur\.com$
 (^|\.)reddit\.com$
 (^|\.)redditmedia\.com$
 (^|\.)startpage\.com$(^|\.)

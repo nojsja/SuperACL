@@ -24,6 +24,7 @@
 
 (^|\.)abc\.xyz$
 (^|\.)amazonaws\.com$
+(^|\.)ampproject\.org$
 (^|\.)apkmirror\.com$
 (^|\.)apkpure\.com$
 (^|\.)aptoide\.com$
@@ -35,6 +36,7 @@
 (^|\.)g\.co$
 (^|\.)ggpht\.com$
 (^|\.)github\.com$
+(^|\.)github\.io$
 (^|\.)githubapp\.com$
 (^|\.)githubassets\.com$
 (^|\.)githubusercontent\.com$
@@ -50,6 +52,8 @@
 (^|\.)googleusercontent\.com$
 (^|\.)googlevideo\.com$
 (^|\.)googlezip\.net$
+(^|\.)reddit\.com$
+(^|\.)redditmedia\.com$
 (^|\.)startpage\.com$(^|\.)
 (^|\.)t\.co$
 (^|\.)t\.me$

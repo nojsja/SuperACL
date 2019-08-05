@@ -55,7 +55,7 @@
 (^|\.)imgur\.com$
 (^|\.)reddit\.com$
 (^|\.)redditmedia\.com$
-(^|\.)startpage\.com$(^|\.)
+(^|\.)startpage\.com$
 (^|\.)t\.co$
 (^|\.)t\.me$
 (^|\.)telegram\.org$

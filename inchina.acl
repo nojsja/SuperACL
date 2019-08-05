@@ -44,7 +44,8 @@
 (^|\.)google\.com?\.[a-z][a-z]$
 (^|\.)googleusercontent\.com$
 (^|\.)googlevideo\.com$
-(^|\.)startpage\.com$
+(^|\.)googlezip\.net$
+(^|\.)startpage\.com$(^|\.)
 (^|\.)t\.co$
 (^|\.)t\.me$
 (^|\.)telegram\.org$

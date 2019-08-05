@@ -38,10 +38,15 @@
 (^|\.)githubapp\.com$
 (^|\.)githubassets\.com$
 (^|\.)githubusercontent\.com$
+(^|\.)gmail\.com$
+(^|\.)gmodules\.com$
 (^|\.)goo\.gl$
 (^|\.)google-analytics\.com$
 (^|\.)google\.[a-z]+$
 (^|\.)google\.com?\.[a-z][a-z]$
+(^|\.)googleapis\.com$
+(^|\.)googlehosted\.com$
+(^|\.)googlesyndication\.com$
 (^|\.)googleusercontent\.com$
 (^|\.)googlevideo\.com$
 (^|\.)googlezip\.net$

@@ -15,19 +15,25 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 0+ Items #
+# Total: 160+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # In the order of the English initials A-Z of the company name 
 
 [bypass_all]
 [proxy_list]
 
+(^|\.)10010\.(com|cn)$
+(^|\.)10010\.com$
+(^|\.)10086\.cn$
 (^|\.)10jqka\.com\.cn$
 (^|\.)11222\.cn$
 (^|\.)126\.(com|net)$
 (^|\.)127\.net$
+(^|\.)139\.com$
 (^|\.)163\.com$
 (^|\.)188\.com$
+(^|\.)189\.cn$
+(^|\.)21cn\.com$
 (^|\.)360buy\.com$
 (^|\.)360buyimg\.com$
 (^|\.)3\.cn$
@@ -64,6 +70,8 @@
 (^|\.)cntvwb\.cn$
 (^|\.)ctrip\.com$
 (^|\.)dfcfw\.com$
+(^|\.)duowan\.com$
+(^|\.)dwstatic\.com$
 (^|\.)dwz\.cn$
 (^|\.)eastmoney\.com$
 (^|\.)focus\.cn$
@@ -74,13 +82,16 @@
 (^|\.)hao123img\.com$
 (^|\.)hdslb\.com$
 (^|\.)hexun\.com$
+(^|\.)hiido\.com$
 (^|\.)hitv\.com$
 (^|\.)hongxiu\.com$
 (^|\.)hoopchina\.com\.cn$
+(^|\.)huanju\.cn$
 (^|\.)huanqiu\.com$
 (^|\.)huanqiucdn\.cn$
 (^|\.)hunantv\.com$
 (^|\.)hupu\.com$
+(^|\.)huya\.com$
 (^|\.)ifeng\.com$
 (^|\.)ifengimg\.com$
 (^|\.)iqiyi\.com$
@@ -110,6 +121,7 @@
 (^|\.)news\.cn$
 (^|\.)newsimg\.cn$
 (^|\.)nuomi\.com$
+(^|\.)panda\.tv$
 (^|\.)people\.cn$
 (^|\.)people\.com\.cn$
 (^|\.)pplive\.cn$
@@ -153,6 +165,9 @@
 (^|\.)uc\.cn$
 (^|\.)ucweb\.com$
 (^|\.)weibo\.(com|cn)$
+(^|\.)wo\.cn$
+(^|\.)wo\.com\.cn$
+(^|\.)wopaper\.com$
 (^|\.)xiami\.(com|net)$
 (^|\.)xiaodutv\.com$
 (^|\.)xiaomi\.com$
@@ -166,4 +181,6 @@
 (^|\.)ykimg\.com$
 (^|\.)youku\.com$
 (^|\.)yuewen\.com$
+(^|\.)yy\.com$
+(^|\.)yystatic\.com$
 (^|\.)zongheng\.com$

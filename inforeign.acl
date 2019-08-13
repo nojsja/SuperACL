@@ -23,10 +23,9 @@
 [proxy_list]
 
 (^|\.)10010\.(com|cn)$
-(^|\.)10010\.com$
 (^|\.)10086\.cn$
 (^|\.)10jqka\.com\.cn$
-(^|\.)11222\.cn$
+(^|\.)115\.com$
 (^|\.)126\.(com|net)$
 (^|\.)127\.net$
 (^|\.)139\.com$
@@ -34,8 +33,10 @@
 (^|\.)188\.com$
 (^|\.)189\.cn$
 (^|\.)21cn\.com$
+(^|\.)2345\.com$
 (^|\.)360buy\.com$
 (^|\.)360buyimg\.com$
+(^|\.)365yg\.com$
 (^|\.)3\.cn$
 (^|\.)3g\.cn$
 (^|\.)3gcdn\.cn$
@@ -43,6 +44,7 @@
 (^|\.)4paradigm\.com$
 (^|\.)58\.com$
 (^|\.)58cdn\.com\.cn$
+(^|\.)91\.com$
 (^|\.)acfun\.cn$
 (^|\.)acg\.tv$
 (^|\.)acgvideo\.com$
@@ -51,8 +53,10 @@
 (^|\.)alicdn\.com$
 (^|\.)alikunlun\.com$
 (^|\.)alipay\.com$
+(^|\.)alipayobjects\.com$
 (^|\.)baidu\.com$
 (^|\.)baidustatic\.com$
+(^|\.)baifubao\.com$
 (^|\.)baofeng\.(com|net)$
 (^|\.)bcebos\.com$
 (^|\.)bdimg\.com$
@@ -64,15 +68,20 @@
 (^|\.)cctv\.com$
 (^|\.)cctvpic\.com$
 (^|\.)china\.com$
+(^|\.)chuanke\.com$
 (^|\.)cibntv\.net$
 (^|\.)cnqiang\.com$
 (^|\.)cntv\.cn$
 (^|\.)cntvwb\.cn$
 (^|\.)ctrip\.com$
+(^|\.)dbank\.com$
+(^|\.)dbankcdn\.com$
 (^|\.)dfcfw\.com$
 (^|\.)duowan\.com$
 (^|\.)dwstatic\.com$
 (^|\.)dwz\.cn$
+(^|\.)dxmpay\.com$
+(^|\.)dxmstatic\.com$
 (^|\.)eastmoney\.com$
 (^|\.)focus\.cn$
 (^|\.)gifshow\.com$
@@ -82,6 +91,7 @@
 (^|\.)hao123img\.com$
 (^|\.)hdslb\.com$
 (^|\.)hexun\.com$
+(^|\.)hiapk\.com$
 (^|\.)hiido\.com$
 (^|\.)hitv\.com$
 (^|\.)hongxiu\.com$
@@ -89,6 +99,7 @@
 (^|\.)huanju\.cn$
 (^|\.)huanqiu\.com$
 (^|\.)huanqiucdn\.cn$
+(^|\.)huawei\.com$
 (^|\.)hunantv\.com$
 (^|\.)hupu\.com$
 (^|\.)huya\.com$
@@ -97,6 +108,7 @@
 (^|\.)iqiyi\.com$
 (^|\.)iqiyipic\.com$
 (^|\.)itc\.cn$
+(^|\.)ixigua\.com$
 (^|\.)jd\.com$
 (^|\.)jjwxc\.net$
 (^|\.)jrj\.com$
@@ -127,6 +139,7 @@
 (^|\.)pplive\.cn$
 (^|\.)pps\.tv$
 (^|\.)pptv\.com$
+(^|\.)pstatp\.com$
 (^|\.)qcloud\.com$
 (^|\.)qcloudcdn\.com$
 (^|\.)qianqian\.com$
@@ -146,6 +159,7 @@
 (^|\.)sinaimg\.cn$
 (^|\.)sinajs\.cn$
 (^|\.)sm\.cn$
+(^|\.)snssdk\.com$
 (^|\.)sogo\.com$
 (^|\.)sogou\.com$
 (^|\.)sohu\.com$
@@ -159,11 +173,14 @@
 (^|\.)thepaper\.cn$
 (^|\.)thsi\.cn$
 (^|\.)tieba\.com$
+(^|\.)toutiao\.com$
 (^|\.)tudou\.com$
 (^|\.)tvmao\.com$
 (^|\.)tvzhe\.com$
 (^|\.)uc\.cn$
 (^|\.)ucweb\.com$
+(^|\.)vmall\.com$
+(^|\.)wandoujia\.com$
 (^|\.)weibo\.(com|cn)$
 (^|\.)wo\.cn$
 (^|\.)wo\.com\.cn$
@@ -183,4 +200,5 @@
 (^|\.)yuewen\.com$
 (^|\.)yy\.com$
 (^|\.)yystatic\.com$
+(^|\.)zijieimg\.com$
 (^|\.)zongheng\.com$

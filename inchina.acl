@@ -36,7 +36,6 @@
 (^|\.)duckduckgo\.com$
 (^|\.)facebook\.(com|net)$
 (^|\.)g\.co$
-(^|\.)gcr\.io$
 (^|\.)ggpht\.com$
 (^|\.)github\.com$
 (^|\.)github\.io$
@@ -44,7 +43,6 @@
 (^|\.)githubassets\.com$
 (^|\.)githubusercontent\.com$
 (^|\.)gmail\.com$
-(^|\.)goo\.gl$
 (^|\.)google-analytics\.com$
 (^|\.)google\.[a-z]+$
 (^|\.)google\.com?\.[a-z][a-z]$

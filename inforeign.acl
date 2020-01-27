@@ -345,7 +345,6 @@
 (^|\.)shuqi\.com$
 (^|\.)shuqireader\.com$
 (^|\.)shuqistat\.com$
-(^|\.)sina\.(com|cn)$
 (^|\.)sina\.(com|cn|net)$
 (^|\.)sina\.com\.cn$
 (^|\.)sinaimg\.cn$
@@ -388,12 +387,10 @@
 (^|\.)wisemedia\.cn$
 (^|\.)wo\.cn$
 (^|\.)wo\.com\.cn$
-(^|\.)wopaper\.com$
 (^|\.)www\.net\.cn$
 (^|\.)xiami\.(com|net)$
 (^|\.)xiaodutv\.com$
 (^|\.)xiaomi\.(com|cn|net)$
-(^|\.)xiaomi\.com$
 (^|\.)xiaomiyoupin\.com$
 (^|\.)xiaonei\.com$
 (^|\.)ximalaya\.com$

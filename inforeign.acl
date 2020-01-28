@@ -17,11 +17,9 @@
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
 # Total: 600+ Items #
 #-–-–-–-–-–-–-–-–-–-+
-# In the order of the English initials A-Z of the company name 
-
+# In the order of the English initials A-Z of the company name
 [bypass_all]
 [proxy_list]
-
 (^|\.)10010\.(com|cn)$
 (^|\.)10086\.cn$
 (^|\.)100bt\.com$

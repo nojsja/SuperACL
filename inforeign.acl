@@ -642,6 +642,7 @@
 (^|\.)wukong\.com$
 (^|\.)wukongwenda\.cn$
 (^|\.)www\.net\.cn$
+(^|\.)xiami\.(com|net)$
 (^|\.)xiaodutv\.com$
 (^|\.)xiaomi\.(com|cn|net)$
 (^|\.)xiaomiyoupin\.com$

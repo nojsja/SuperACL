@@ -152,12 +152,14 @@
 (?:^|\.)google-?analytics\.com$
 (?:^|\.)google\.[a-z]+$
 (?:^|\.)google\.com?\.[a-z][a-z]$
+(?:^|\.)googleadapis\.com$
 (?:^|\.)googleadservices\.com$
 (?:^|\.)googleapis\.com$
 (?:^|\.)googleapps\.com$
 (?:^|\.)googleblog\.com$
 (?:^|\.)googlebot\.com$
 (?:^|\.)googlecode\.com$
+(?:^|\.)googlecommerce\.com$
 (?:^|\.)googledomains\.com$
 (?:^|\.)googledrive\.com$
 (?:^|\.)googleearth\.com$
@@ -385,3 +387,4 @@
 (?:^|\.)yt\.be$
 (?:^|\.)ytimg\.com$
 (?:^|\.)zend\.com$
+

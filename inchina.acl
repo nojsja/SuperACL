@@ -95,11 +95,14 @@
 (?:^|\.)chromestatus\.com$
 (?:^|\.)chromium\.org$
 (?:^|\.)cloudflare\.(com|net)$
+(?:^|\.)cloudflareinsights\.com$
 (?:^|\.)cloudflarestream\.com$
 (?:^|\.)cloudfront\.net$
+(?:^|\.)cna\.com\.tw$
 (?:^|\.)criteo\.com$
 (?:^|\.)ctitv\.com\.tw$
 (?:^|\.)digiteka\.net$
+(?:^|\.)discord\.gg$
 (?:^|\.)discordapp\.(com|net)$
 (?:^|\.)disq\.us$
 (?:^|\.)disqus\.com$
@@ -123,6 +126,8 @@
 (?:^|\.)espn\.com$
 (?:^|\.)espncdn\.com$
 (?:^|\.)facebook\.[a-z]{1,6}$
+(?:^|\.)fastly-insights\.com$
+(?:^|\.)fastly\.(com|net)$
 (?:^|\.)fb\.(com|me)$
 (?:^|\.)fbcdn\.net$
 (?:^|\.)fbsbx\.com$
@@ -192,6 +197,7 @@
 (?:^|\.)gsuite\.com$
 (?:^|\.)gvt[0-9]\.com$
 (?:^|\.)hotmail\.com$
+(?:^|\.)hulu\.com$
 (?:^|\.)i\.org$
 (?:^|\.)iana\.org$
 (?:^|\.)ietf\.org$
@@ -223,6 +229,7 @@
 (?:^|\.)liveperson\.(com|net)$
 (?:^|\.)lkqd\.net$
 (?:^|\.)lpsnmedia\.net$
+(?:^|\.)ltn\.com\.tw$
 (?:^|\.)lync\.com$
 (?:^|\.)m\.me$
 (?:^|\.)mail\.ru$
@@ -237,6 +244,7 @@
 (?:^|\.)mobafire\.com$
 (?:^|\.)msdn\.com$
 (?:^|\.)msecnd\.net$
+(?:^|\.)msftncsi\.com$
 (?:^|\.)msn\.com$
 (?:^|\.)msocdn\.com$
 (?:^|\.)naver\.jp$
@@ -274,9 +282,10 @@
 (?:^|\.)quantserve\.com$
 (?:^|\.)qubit\.com$
 (?:^|\.)qubitproducts\.com$
+(?:^|\.)quora\.com$
+(?:^|\.)quoracdn\.net$
 (?:^|\.)raspberrypi\.org$
 (?:^|\.)raspbian\.org$
-(?:^|\.)recaptcha\.net$
 (?:^|\.)redd\.it$
 (?:^|\.)reddit\.com$
 (?:^|\.)redditmedia\.com$
@@ -287,6 +296,7 @@
 (?:^|\.)s-msft\.com$
 (?:^|\.)sc-cdn\.net$
 (?:^|\.)sc-static\.net$
+(?:^|\.)scdn\.co$
 (?:^|\.)scorecardresearch\.com$
 (?:^|\.)sf\.net$
 (?:^|\.)sfx\.ms$
@@ -301,6 +311,7 @@
 (?:^|\.)snapchat\.com$
 (?:^|\.)sourceforge\.net$
 (?:^|\.)spectacles\.com$
+(?:^|\.)spotify\.com$
 (?:^|\.)spotxchange\.com$
 (?:^|\.)startpage\.com$
 (?:^|\.)staticflickr\.com$
@@ -352,6 +363,8 @@
 (?:^|\.)verizondigitalmedia\.com$
 (?:^|\.)verizonwireless\.com$
 (?:^|\.)videoadex\.com$
+(?:^|\.)vimeo\.com$
+(?:^|\.)vimeocdn\.com$
 (?:^|\.)visualstudio\.com$
 (?:^|\.)vntsm\.com$
 (?:^|\.)w\.org$

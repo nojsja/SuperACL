@@ -99,6 +99,7 @@
 (?:^|\.)cloudflarestream\.com$
 (?:^|\.)cloudfront\.net$
 (?:^|\.)cna\.com\.tw$
+(?:^|\.)cnn\.(com|io)$
 (?:^|\.)criteo\.com$
 (?:^|\.)ctitv\.com\.tw$
 (?:^|\.)digiteka\.net$
@@ -223,6 +224,7 @@
 (?:^|\.)lijit\.com$
 (?:^|\.)line-scdn\.net$
 (?:^|\.)line\.me$
+(?:^|\.)linecorp\.com$
 (?:^|\.)linkedin\.co$
 (?:^|\.)live\.com$
 (?:^|\.)livefilestore\.com$
@@ -253,6 +255,8 @@
 (?:^|\.)nextcloud\.com$
 (?:^|\.)nflxext\.com$
 (?:^|\.)nflximg\.net$
+(?:^|\.)nyt\.com$
+(?:^|\.)nytimes\.com$
 (?:^|\.)oath\.com$
 (?:^|\.)oculus\.com$
 (?:^|\.)oculuscdn\.com$
@@ -309,6 +313,8 @@
 (?:^|\.)skypeassets\.com$
 (?:^|\.)snap\.com$
 (?:^|\.)snapchat\.com$
+(?:^|\.)sndcdn\.com$
+(?:^|\.)soundcloud\.com$
 (?:^|\.)sourceforge\.net$
 (?:^|\.)spectacles\.com$
 (?:^|\.)spotify\.com$
@@ -382,6 +388,7 @@
 (?:^|\.)withyoutube\.com$
 (?:^|\.)wordpress\.(com|org)$
 (?:^|\.)wp\.(com|me)$
+(?:^|\.)wsj\.(com|net)$
 (?:^|\.)xamarin\.com$
 (?:^|\.)xbox\.com$
 (?:^|\.)xda-cdn\.com$

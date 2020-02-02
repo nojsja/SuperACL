@@ -68,6 +68,7 @@
 (?:^|\.)azurewebsites\.net$
 (?:^|\.)bbc\.co\.uk$
 (?:^|\.)bbc\.com$
+(?:^|\.)bbci\.co\.uk$
 (?:^|\.)bidswitch\.net$
 (?:^|\.)bing\.(com|net)$
 (?:^|\.)bingapis\.com$
@@ -97,6 +98,7 @@
 (?:^|\.)ctitv\.com\.tw$
 (?:^|\.)digiteka\.net$
 (?:^|\.)discordapp\.com$
+(?:^|\.)disq\.us$
 (?:^|\.)disqus\.com$
 (?:^|\.)disquscdn\.com$
 (?:^|\.)docs\.com$
@@ -106,7 +108,7 @@
 (?:^|\.)dropboxapi\.com$
 (?:^|\.)dropboxstatic\.com$
 (?:^|\.)dropboxusercontent\.com$
-(?:^|\.)drupal\.org$
+(?:^|\.)drupal\.(com|org)$
 (?:^|\.)duck\.com$
 (?:^|\.)duckduckgo\.com$
 (?:^|\.)dynamics\.com$
@@ -114,12 +116,9 @@
 (?:^|\.)ebaystatic\.com$
 (?:^|\.)edgecastcdn\.net$
 (?:^|\.)edu\.tw$
-(?:^|\.)eland-tech\.com$
 (?:^|\.)emc\.com\.tw$
-(?:^|\.)eshop\.com$
 (?:^|\.)espn\.com$
 (?:^|\.)espncdn\.com$
-(?:^|\.)facebook\.(com|net)$
 (?:^|\.)facebook\.[a-z]{1,6}$
 (?:^|\.)fb\.(com|me)$
 (?:^|\.)fbcdn\.net$
@@ -374,10 +373,8 @@
 (?:^|\.)xda-developers\.com$
 (?:^|\.)yahoo\.(com|net)$
 (?:^|\.)yahoo\.co\.jp$
-(?:^|\.)yahoo\.com$
 (?:^|\.)yandex\.(com|ru)$
 (?:^|\.)yimg\.(com|jp)$
-(?:^|\.)yimg\.com$
 (?:^|\.)youtu\.be$
 (?:^|\.)youtube-nocookie\.com$
 (?:^|\.)youtube\.com$

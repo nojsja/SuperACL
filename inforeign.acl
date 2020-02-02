@@ -608,7 +608,6 @@
 (?:^|\.)tdnsv6\.com$
 (?:^|\.)techweb\.com\.cn$
 (?:^|\.)tencent-cloud\.(com|net)$
-(?:^|\.)tencent-cloud\.net$
 (?:^|\.)tencent\.com$
 (?:^|\.)tenda\.com\.cn$
 (?:^|\.)tenpay\.com$

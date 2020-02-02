@@ -24,6 +24,7 @@
 [proxy_list]
 
 (?:^|\.)1drv\.(com|ms)$
+(?:^|\.)1e100\.net$
 (?:^|\.)2mdn\.net$
 (?:^|\.)3gl\.net$
 (?:^|\.)3gpp\.org$
@@ -102,6 +103,9 @@
 (?:^|\.)cnn\.(com|io)$
 (?:^|\.)criteo\.com$
 (?:^|\.)ctitv\.com\.tw$
+(?:^|\.)daum\.net$
+(?:^|\.)daumcdn\.net$
+(?:^|\.)db\.tt$
 (?:^|\.)digiteka\.net$
 (?:^|\.)discord\.gg$
 (?:^|\.)discordapp\.(com|net)$
@@ -135,6 +139,7 @@
 (?:^|\.)fc2\.com$
 (?:^|\.)firebaseapp\.com$
 (?:^|\.)flickr\.com$
+(?:^|\.)flipboard\.com$
 (?:^|\.)free-ss\.[a-z]+$
 (?:^|\.)freebrowser\.org$
 (?:^|\.)freewechat\.com$
@@ -154,6 +159,7 @@
 (?:^|\.)gmail\.com$
 (?:^|\.)gmodules\.com$
 (?:^|\.)gnu\.org$
+(?:^|\.)golang\.org$
 (?:^|\.)goo\.gl$
 (?:^|\.)goog$
 (?:^|\.)google$
@@ -222,10 +228,12 @@
 (?:^|\.)licdn\.com$
 (?:^|\.)lifewire\.com$
 (?:^|\.)lijit\.com$
+(?:^|\.)line-apps\.com$
 (?:^|\.)line-scdn\.net$
 (?:^|\.)line\.me$
 (?:^|\.)linecorp\.com$
 (?:^|\.)linkedin\.co$
+(?:^|\.)litv\.tv$
 (?:^|\.)live\.com$
 (?:^|\.)livefilestore\.com$
 (?:^|\.)liveperson\.(com|net)$
@@ -239,6 +247,8 @@
 (?:^|\.)marketo\.(com|net)$
 (?:^|\.)media-amazon\.com$
 (?:^|\.)medium\.com$
+(?:^|\.)mega\.co\.nz$
+(?:^|\.)mega\.nz$
 (?:^|\.)messenger\.com$
 (?:^|\.)microsoft\.com$
 (?:^|\.)microsoftonline\.com$
@@ -255,8 +265,11 @@
 (?:^|\.)nextcloud\.com$
 (?:^|\.)nflxext\.com$
 (?:^|\.)nflximg\.net$
+(?:^|\.)nicovideo\.jp$
+(?:^|\.)nimg\.jp$
 (?:^|\.)nyt\.com$
 (?:^|\.)nytimes\.com$
+(?:^|\.)nytstyle\.com$
 (?:^|\.)oath\.com$
 (?:^|\.)oculus\.com$
 (?:^|\.)oculuscdn\.com$
@@ -282,6 +295,9 @@
 (?:^|\.)pixiv\.(net|org|help)$
 (?:^|\.)pixiv\.co\.jp$
 (?:^|\.)plurk\.com$
+(?:^|\.)pscp\.tv$
+(?:^|\.)ptt\.cc$
+(?:^|\.)pttweb\.cc$
 (?:^|\.)pubmatic\.com$
 (?:^|\.)quantserve\.com$
 (?:^|\.)qubit\.com$
@@ -294,6 +310,8 @@
 (?:^|\.)reddit\.com$
 (?:^|\.)redditmedia\.com$
 (?:^|\.)redditstatic\.com$
+(?:^|\.)reuters\.com$
+(?:^|\.)reutersmedia\.net$
 (?:^|\.)rfc-editor\.org$
 (?:^|\.)roguewave\.com$
 (?:^|\.)s-microsoft\.com$
@@ -333,12 +351,12 @@
 (?:^|\.)technet\.com$
 (?:^|\.)teddysun\.com$
 (?:^|\.)telegram\.(org|me)$
-(?:^|\.)telegram\.org$
 (?:^|\.)tensorflow\.org$
 (?:^|\.)textnow\.com$
 (?:^|\.)thefacebook\.com$
 (?:^|\.)thinkwithgoogle\.com$
 (?:^|\.)tomsguide\.com$
+(?:^|\.)torproject\.org$
 (?:^|\.)translate\.com$
 (?:^|\.)ttvnw\.net$
 (?:^|\.)tumblr\.com$
@@ -349,6 +367,7 @@
 (?:^|\.)twitchsvc\.net$
 (?:^|\.)twitter\.[a-z]{2,6}$
 (?:^|\.)twrp\.me$
+(?:^|\.)typekit\.net$
 (?:^|\.)ubi\.(com|li)$
 (?:^|\.)ubisoft\.com$
 (?:^|\.)udn\.com$
@@ -374,6 +393,8 @@
 (?:^|\.)visualstudio\.com$
 (?:^|\.)vntsm\.com$
 (?:^|\.)w\.org$
+(?:^|\.)webmproject\.org$
+(?:^|\.)webrtc\.org$
 (?:^|\.)whatbrowser\.org$
 (?:^|\.)whatsapp\.(com|net)$
 (?:^|\.)wikileaks\.org$

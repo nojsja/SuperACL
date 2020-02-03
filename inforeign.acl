@@ -287,6 +287,7 @@
 (?:^|\.)fastapi\.net$
 (?:^|\.)fastweb\.com\.cn$
 (?:^|\.)fbcontent\.cn$
+(?:^|\.)feishu\.cn$
 (?:^|\.)feizhu\.com$
 (?:^|\.)fenbi\.com$
 (?:^|\.)feng\.com$
@@ -306,6 +307,7 @@
 (?:^|\.)ganjistatic1\.com$
 (?:^|\.)gaode\.com$
 (?:^|\.)geetest\.com$
+(?:^|\.)getfeishu\.cn$
 (?:^|\.)getui\.com$
 (?:^|\.)gfan\.com$
 (?:^|\.)gfan\.net\.cn$
@@ -409,6 +411,7 @@
 (?:^|\.)koubei\.com$
 (?:^|\.)ks-cdn\.com$
 (?:^|\.)ksyun\.com$
+(?:^|\.)ksyunad\.com$
 (?:^|\.)ksyuncdn\.com$
 (?:^|\.)ksyungslb\.com$
 (?:^|\.)ku6\.com$
@@ -422,6 +425,7 @@
 (?:^|\.)kunlunhuf\.com$
 (?:^|\.)kunlunno\.com$
 (?:^|\.)kunlunpi\.com$
+(?:^|\.)kunlunso\.com$
 (?:^|\.)kuwo\.cn$
 (?:^|\.)lagou\.com$
 (?:^|\.)laifeng\.com$
@@ -459,6 +463,7 @@
 (?:^|\.)miaopai\.com$
 (?:^|\.)mifile\.cn$
 (?:^|\.)mipay\.com$
+(?:^|\.)mipcdn\.com$
 (?:^|\.)miui\.com$
 (?:^|\.)miwifi\.com$
 (?:^|\.)mmstat\.com$
@@ -485,7 +490,9 @@
 (?:^|\.)nuomi\.com$
 (?:^|\.)oceanengine\.com$
 (?:^|\.)onethingcloud\.(com|cn)$
+(?:^|\.)onethingcloud\.com$
 (?:^|\.)onethingpcs\.com$
+(?:^|\.)onethingtech\.net$
 (?:^|\.)onlinedown\.net$
 (?:^|\.)oray\.(com|net)$
 (?:^|\.)ourdvsss\.com$
@@ -525,6 +532,7 @@
 (?:^|\.)psbc\.com$
 (?:^|\.)pstatp\.com$
 (?:^|\.)ptengine\.cn$
+(?:^|\.)qchannel03\.cn$
 (?:^|\.)qcloud\.com$
 (?:^|\.)qcloudcdn\.com$
 (?:^|\.)qcloudimg\.com$
@@ -568,6 +576,7 @@
 (?:^|\.)sina\.com\.cn$
 (?:^|\.)sinaapp\.com$
 (?:^|\.)sinacloud\.com$
+(?:^|\.)sinaedge\.com$
 (?:^|\.)sinaimg\.cn$
 (?:^|\.)sinajs\.cn$
 (?:^|\.)sinastorage\.cn$
@@ -591,6 +600,7 @@
 (?:^|\.)sou\.com$
 (?:^|\.)spdydns\.com$
 (?:^|\.)sspai\.com$
+(?:^|\.)staticfile\.org$
 (?:^|\.)stockstar\.com$
 (?:^|\.)suning\.(com|cn)$
 (?:^|\.)t\.(cn|tt)$
@@ -696,9 +706,11 @@
 (?:^|\.)xunlei\.com$
 (?:^|\.)xycdn\.com$
 (?:^|\.)xycloud\.com$
+(?:^|\.)yangshipin\.cn$
 (?:^|\.)ydstatic\.com$
 (?:^|\.)yeah\.net$
 (?:^|\.)yesky\.com$
+(?:^|\.)yfcdn\.net$
 (?:^|\.)yfdurl\.com$
 (?:^|\.)yhd\.com$
 (?:^|\.)yicai\.com$
@@ -720,8 +732,10 @@
 (?:^|\.)yuantiku\.net$
 (?:^|\.)yuewen\.com$
 (?:^|\.)yunaq\.com$
+(?:^|\.)yunfandns\.com$
 (?:^|\.)yunos\.com$
 (?:^|\.)yunpan\.cn$
+(?:^|\.)yuque\.com$
 (?:^|\.)yy\.com$
 (?:^|\.)yystatic\.com$
 (?:^|\.)z\.cn$

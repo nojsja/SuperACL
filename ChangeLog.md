@@ -3,6 +3,27 @@
 
 # **最新版 New Version:**
 
+### **1.09-Ver1** `2021-08-04`
+***
+
+- 出国代理 `inchina.acl`
+    - [Improve] 基于最新的互联网情况完全重写了该规则文件
+    - [Improve] 本次重写补充了近年来被屏蔽的网站
+    - [Add] 支持 Archive of Our Own 网站
+    - [Add] 支持社团法人中国国民党网站
+    - [Add] 支持抖音国际版 (TikTok) 网页端和 App 端服务 (App 版正常使用需要额外移除 SIM 卡)
+    - [Add] 支持 Google Play 下载和更新服务 (经过测试)
+    - [Fix] 解决 Disney+ 提示地区不可用的问题
+    - [Fix] 解决 SoundCloud 提示地区不可用的问题
+
+- 回国代理 `inforeign.acl`
+    - [Add] 基于最新的互联网情况完全重写了该规则文件
+    - [Add] 本次重写精简了大量域名，有针对性的保留了具有境外访问限制的网站
+    - [Add] 欢迎AcFun回家！
+    - [Add] 欢迎Bilibili回家！
+
+## **旧版 Old Version:**
+
 ### **1.08-Alpha1-Pre4** `2019-02-10`
 ***
 - 出国代理 `inchina.acl`
@@ -32,8 +53,6 @@
     - [Improve] 添加亚马逊中国解决玄学问题
     - [Improve] 添加一些阿里云和自家CDN的各种业务域名
     - [Delete] 移除 `.cn` 野卡式暴力代理规则
-
-## **旧版 Old Version:**
 
 ### **1.08-Alpha1-Pre3** `2019-02-08`
 ***

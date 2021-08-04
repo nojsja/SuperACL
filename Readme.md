@@ -30,10 +30,10 @@ _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的�
  * 海外回国模式(代理范围为中国大陆地区的网站)  
 
 本规则可以帮助您  
-- [x] 代理在中国大陆被封锁的网站 (eg. Google、 Facebook、 Twitter)
-- [x] 代理在中国大陆访问速度较慢或不稳定的网站 (eg. GitHub、 Amazon AWS)
-- [x] 代理在中国大陆有访问限制的网站 (eg. Steam Powered、 Xbox Live)
-- [x] 代理其它在中国大陆不能完整访问的网站 (eg. Bing、 Wikipedia、 WordPress)
+- [x] 代理在中国大陆被封锁的网站 (eg. Google、Facebook、Twitter)
+- [x] 代理在中国大陆访问速度较慢或不稳定的网站 (eg. GitHub、Amazon AWS)
+- [x] 代理在中国大陆有访问限制的网站 (eg. Steam Powered、Disney+)
+- [x] 代理其它在中国大陆不能完整访问的网站 (eg. Bing、Wikipedia、WordPress)
 - [ ] 回国模式则反之亦然，欢迎海外华人使用哦 (*σ´∀`)σ
 > 但同时也请您注意：  
 > 1. 我们不会主动去屏蔽广告和国内域名，所以本规则不具有主动屏蔽广告的功能，也不会代理任何 `.cn` 域名哦
@@ -75,7 +75,7 @@ _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的�
 
 
 ## 版权
-* Copyright &copy; 2020 Guan 'Windelight' MingZheng. All Rights Reserved.  
-* Copyright &copy; 2016-2020 NciYuan! Team. Common Rights Statement.
+* Copyright &copy; 2021 Guan 'Windelight' MingZheng. All Rights Reserved.  
+* Copyright &copy; 2016-2021 NciYuan! Team. Common Rights Statement.
 
 *** MIT License ***

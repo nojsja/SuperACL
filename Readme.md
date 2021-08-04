@@ -11,7 +11,7 @@
 ```
 [![HomePAGE](https://img.shields.io/badge/Home-Page-blue.svg?style=flat)](https://powerfulweb.nciyuan.net)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/License.md)
-[![VersionName](https://img.shields.io/badge/Version-108Alpha1Pre4-orange.svg?style=flat)](https://github.com/Windelight/SuperACL/tree/master)
+[![VersionName](https://img.shields.io/badge/Version-1.09_Ver.1-orange.svg?style=flat)](https://github.com/Windelight/SuperACL/tree/master)
 [![ChangeLOG](https://img.shields.io/badge/Change-Log-red.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/ChangeLog.md)
 
 **Tip**: [点击/长按此处立刻复制链接](https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl)并粘贴到软件中即可快速开始使用！  
@@ -27,7 +27,7 @@ _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的�
 ## 简介
  本规则有以下两种模式
  * 大陆出国模式(仅代理中国大陆有访问问题的网站)
- * 海外回国模式(代理范围为中国大陆地区的网站)  
+ * 海外回国模式(代理范围为中国大陆地区的限制境外访问网站)  
 
 本规则可以帮助您  
 - [x] 代理在中国大陆被封锁的网站 (eg. Google、Facebook、Twitter)

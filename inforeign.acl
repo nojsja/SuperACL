@@ -480,8 +480,7 @@
 (?:^|\.)taptapdata\.com$
 (?:^|\.)tb\.cn$
 (?:^|\.)tbcdn\.cn$
-(?:^|\.)teambition\.com$
-(?:^|\.)teambition\.net$
+(?:^|\.)teambition\.(com|net)$
 (?:^|\.)techweb\.com\.cn$
 (?:^|\.)tencent\.com$
 (?:^|\.)tencentcloudapi\.com$

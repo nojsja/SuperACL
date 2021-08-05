@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 180+ Items #
+# Total: 200+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # This is the version for proxy foreign website use
 # In the order of the English initials A-Z of the product or brand name 
@@ -24,9 +24,13 @@
 [proxy_list]
 
 (?:^|\.)abc\.xyz$
+(?:^|\.)accuweather\.com$
+(?:^|\.)adobe\.com$
+(?:^|\.)adobedtm\.com$
 (?:^|\.)akamaihd\.net$
 (?:^|\.)akamaized\.net$
 (?:^|\.)amazon\.co\.jp$
+(?:^|\.)amazon\.com$
 (?:^|\.)ampproject\.org$
 (?:^|\.)android\.com$
 (?:^|\.)apkpure\.com$
@@ -35,6 +39,7 @@
 (?:^|\.)archive\.org$
 (?:^|\.)archiveofourown\.org$
 (?:^|\.)ask\.com$
+(?:^|\.)awsstatic\.com$
 (?:^|\.)bandcamp\.com$
 (?:^|\.)bbc\.com$
 (?:^|\.)bbci?\.co\.uk$
@@ -46,6 +51,7 @@
 (?:^|\.)chinatimes\.com$
 (?:^|\.)chrome\.com$
 (?:^|\.)chromium\.org$
+(?:^|\.)cloudfront\.net$
 (?:^|\.)cna\.com\.tw$
 (?:^|\.)cnn\.com$
 (?:^|\.)dailymail\.co\.uk$
@@ -60,8 +66,13 @@
 (?:^|\.)duck\.com$
 (?:^|\.)duckduckgo\.com$
 (?:^|\.)ea\.com$
+(?:^|\.)ebay\.com$
+(?:^|\.)ebayimg\.com$
+(?:^|\.)ebaystatic\.com$
 (?:^|\.)economist\.com$
+(?:^|\.)espn\.com$
 (?:^|\.)facebook\.(com|net)$
+(?:^|\.)fandom\.com$
 (?:^|\.)fbcdn\.net$
 (?:^|\.)flickr\.com$
 (?:^|\.)flipboard\.com$
@@ -71,6 +82,7 @@
 (?:^|\.)g\.co$
 (?:^|\.)ggpht\.com$
 (?:^|\.)github\.(com|io)$
+(?:^|\.)githubapp\.com$
 (?:^|\.)githubassets\.com$
 (?:^|\.)githubusercontent\.com$
 (?:^|\.)gle$
@@ -87,11 +99,14 @@
 (?:^|\.)googletagmanager\.com$
 (?:^|\.)googleusercontent\.com$
 (?:^|\.)googlevideo\.com$
+(?:^|\.)gov\.tw$
 (?:^|\.)gravatar\.com$
 (?:^|\.)gstatic\.com$
 (?:^|\.)guim\.co\.uk$
 (?:^|\.)gvt[0-5]\.com$
 (?:^|\.)hbo\.com$
+(?:^|\.)huobi\.com$
+(?:^|\.)imdb\.com$
 (?:^|\.)imgur\.com$
 (?:^|\.)independent\.co\.uk$
 (?:^|\.)instagram\.com$
@@ -107,15 +122,18 @@
 (?:^|\.)mega\.(nz|io)$
 (?:^|\.)mega\.co\.nz$
 (?:^|\.)messenger\.com$
+(?:^|\.)microsoft\.com$
 (?:^|\.)myspace\.com$
 (?:^|\.)myspacecdn\.com$
 (?:^|\.)naver\.jp$
 (?:^|\.)netflix\.com$
+(?:^|\.)newegg\.com$
+(?:^|\.)neweggimages\.com$
 (?:^|\.)nflxext\.com$
 (?:^|\.)nicovideo\.jp$
 (?:^|\.)nyt\.com$
 (?:^|\.)nytimes\.com$
-(?:^|\.)office\.net$
+(?:^|\.)office\.(com|net)$
 (?:^|\.)optimizely\.com$
 (?:^|\.)origin\.com$
 (?:^|\.)picasa\.com$
@@ -133,9 +151,11 @@
 (?:^|\.)redditstatic\.com$
 (?:^|\.)reuters\.com$
 (?:^|\.)rfi\.fr$
+(?:^|\.)s3\.amazonaws\.com$
 (?:^|\.)sc-cdn\.net$
 (?:^|\.)scdn\.co$
 (?:^|\.)scmp\.com$
+(?:^|\.)similarweb\.com$
 (?:^|\.)sina\.com\.(hk|tw)$
 (?:^|\.)sina\.tw$
 (?:^|\.)snapchat\.com$
@@ -164,6 +184,7 @@
 (?:^|\.)twitch\.tv$
 (?:^|\.)twitchcdn\.net$
 (?:^|\.)twitter\.com$
+(?:^|\.)typekit\.net$
 (?:^|\.)ubi\.com$
 (?:^|\.)ubisoft\.com$
 (?:^|\.)udn\.com$
@@ -191,6 +212,7 @@
 (?:^|\.)wordpress\.(com|org)$
 (?:^|\.)wp\.(com|me)$
 (?:^|\.)wsj\.(com|net)$
+(?:^|\.)xbox\.com$
 (?:^|\.)xn--9kr7l\.com$
 (?:^|\.)xn--flw351e\.com$
 (?:^|\.)xn--ggle-55da\.com$

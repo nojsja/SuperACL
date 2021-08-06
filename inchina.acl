@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 200+ Items #
+# Total: 230+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # This is the version for proxy foreign website use
 # In the order of the English initials A-Z of the product or brand name 
@@ -23,8 +23,10 @@
 [bypass_all]
 [proxy_list]
 
+(?:^|\.)104\.com\.tw$
 (?:^|\.)abc\.xyz$
 (?:^|\.)accuweather\.com$
+(?:^|\.)addthis\.com$
 (?:^|\.)adobe\.com$
 (?:^|\.)adobedtm\.com$
 (?:^|\.)akamaihd\.net$
@@ -40,10 +42,13 @@
 (?:^|\.)archiveofourown\.org$
 (?:^|\.)ask\.com$
 (?:^|\.)awsstatic\.com$
+(?:^|\.)bahamut\.com\.tw$
 (?:^|\.)bandcamp\.com$
 (?:^|\.)bbc\.com$
 (?:^|\.)bbci?\.co\.uk$
+(?:^|\.)bcbits\.com$
 (?:^|\.)bing\.com$
+(?:^|\.)bit\.ly$
 (?:^|\.)blogger\.com$
 (?:^|\.)blogspot\.(com|tw)$
 (?:^|\.)bloomberg\.com$
@@ -71,15 +76,18 @@
 (?:^|\.)ebaystatic\.com$
 (?:^|\.)economist\.com$
 (?:^|\.)espn\.com$
+(?:^|\.)espncdn\.com$
 (?:^|\.)facebook\.(com|net)$
 (?:^|\.)fandom\.com$
 (?:^|\.)fbcdn\.net$
+(?:^|\.)fc2\.com$
 (?:^|\.)flickr\.com$
 (?:^|\.)flipboard\.com$
 (?:^|\.)free-ss\.site$
 (?:^|\.)ft\.com$
 (?:^|\.)ftchinese\.com$
 (?:^|\.)g\.co$
+(?:^|\.)gamer\.com\.tw$
 (?:^|\.)ggpht\.com$
 (?:^|\.)github\.(com|io)$
 (?:^|\.)githubapp\.com$
@@ -95,8 +103,10 @@
 (?:^|\.)google\.com?\.[a-z][a-z]$
 (?:^|\.)googleapis\.(com|cn)$
 (?:^|\.)googleblog\.com$
+(?:^|\.)googleoptimize\.com$
 (?:^|\.)googlesource\.com$
 (?:^|\.)googletagmanager\.com$
+(?:^|\.)googletagservices\.com$
 (?:^|\.)googleusercontent\.com$
 (?:^|\.)googlevideo\.com$
 (?:^|\.)gov\.tw$
@@ -105,6 +115,8 @@
 (?:^|\.)guim\.co\.uk$
 (?:^|\.)gvt[0-5]\.com$
 (?:^|\.)hbo\.com$
+(?:^|\.)hbomax\.com$
+(?:^|\.)hket\.com$
 (?:^|\.)huobi\.com$
 (?:^|\.)imdb\.com$
 (?:^|\.)imgur\.com$
@@ -123,6 +135,8 @@
 (?:^|\.)mega\.co\.nz$
 (?:^|\.)messenger\.com$
 (?:^|\.)microsoft\.com$
+(?:^|\.)mingpao\.com$
+(?:^|\.)mpweekly\.com$
 (?:^|\.)myspace\.com$
 (?:^|\.)myspacecdn\.com$
 (?:^|\.)naver\.jp$
@@ -131,6 +145,7 @@
 (?:^|\.)neweggimages\.com$
 (?:^|\.)nflxext\.com$
 (?:^|\.)nicovideo\.jp$
+(?:^|\.)nimg\.jp$
 (?:^|\.)nyt\.com$
 (?:^|\.)nytimes\.com$
 (?:^|\.)office\.(com|net)$
@@ -142,6 +157,7 @@
 (?:^|\.)pinimg\.com$
 (?:^|\.)pinterest\.com$
 (?:^|\.)pixiv\.net$
+(?:^|\.)pixnet\.net$
 (?:^|\.)pximg\.net$
 (?:^|\.)quora\.com$
 (?:^|\.)quoracdn\.net$
@@ -151,10 +167,13 @@
 (?:^|\.)redditstatic\.com$
 (?:^|\.)reuters\.com$
 (?:^|\.)rfi\.fr$
+(?:^|\.)rthk\.hk$
 (?:^|\.)s3\.amazonaws\.com$
 (?:^|\.)sc-cdn\.net$
 (?:^|\.)scdn\.co$
 (?:^|\.)scmp\.com$
+(?:^|\.)shopee\.tw$
+(?:^|\.)similarcdn\.com$
 (?:^|\.)similarweb\.com$
 (?:^|\.)sina\.com\.(hk|tw)$
 (?:^|\.)sina\.tw$
@@ -162,6 +181,7 @@
 (?:^|\.)sndcdn\.com$
 (?:^|\.)soundcloud\.com$
 (?:^|\.)spotify\.com$
+(?:^|\.)spotifycdn\.com$
 (?:^|\.)startpage\.com$
 (?:^|\.)staticflickr\.com$
 (?:^|\.)steamcommunity\.com$
@@ -191,10 +211,13 @@
 (?:^|\.)udn\.com\.tw$
 (?:^|\.)v2ex\.com$
 (?:^|\.)v2fly\.org$
+(?:^|\.)v2ray\.com$
 (?:^|\.)viber\.com$
 (?:^|\.)vimeo\.com$
 (?:^|\.)vimeocdn\.com$
+(?:^|\.)viu\.tv$
 (?:^|\.)w\.org$
+(?:^|\.)warnermediacdn\.com$
 (?:^|\.)washingtonpost\.com$
 (?:^|\.)whatsapp\.(com|net)$
 (?:^|\.)widevine\.com$
@@ -213,14 +236,20 @@
 (?:^|\.)wp\.(com|me)$
 (?:^|\.)wsj\.(com|net)$
 (?:^|\.)xbox\.com$
+(?:^|\.)xda-developers\.com$
 (?:^|\.)xn--9kr7l\.com$
 (?:^|\.)xn--flw351e\.com$
 (?:^|\.)xn--ggle-55da\.com$
 (?:^|\.)xn--gogl-0nd52e\.com$
 (?:^|\.)xn--gogl-1nd42e\.com$
 (?:^|\.)xn--ngstr-lra8j\.com$
+(?:^|\.)yahoo\.co\.jp$
+(?:^|\.)yahoo\.com$
+(?:^|\.)yahoo\.com\.tw$
 (?:^|\.)yelp\.com$
 (?:^|\.)yelpcdn\.com$
+(?:^|\.)yhoo\.it$
+(?:^|\.)yimg\.(com|jp)$
 (?:^|\.)youtu\.be$
 (?:^|\.)youtube-nocookie\.com$
 (?:^|\.)youtube\.com$

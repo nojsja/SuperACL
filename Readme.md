@@ -11,17 +11,17 @@
 ```
 [![HomePAGE](https://img.shields.io/badge/Home-Page-blue.svg?style=flat)](https://powerfulweb.nciyuan.net)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/License.md)
-[![VersionName](https://img.shields.io/badge/Version-1.09_Ver.1-orange.svg?style=flat)](https://github.com/Windelight/SuperACL/tree/master)
+[![VersionName](https://img.shields.io/badge/Version-1.09_Ver.2-orange.svg?style=flat)](https://github.com/Windelight/SuperACL/tree/master)
 [![ChangeLOG](https://img.shields.io/badge/Change-Log-red.svg?style=flat)](https://github.com/Windelight/SuperACL/blob/master/ChangeLog.md)
 
 **Tip**: [点击/长按此处立刻复制链接](https://raw.githubusercontent.com/Windelight/SuperACL/master/inchina.acl)并粘贴到软件中即可快速开始使用！  
 
 _本项目是 `BitBucket` 和 `Coding` 以及 `GitLab` 上面的备份项目的同步源_
 
-**前排提示: 因本作者现已开学，所以本项目除主要文件外其他文件全部 Delay 更新，但两份规则文件仍会保持每周更新！**  
-**终止时间: 2019年2月17日 终止版本号: 1.08-Alpha1-Pre4 （不再继续累加版本，停止同步，但文件持续更新）**  
+~~**前排提示: 因本作者现已开学，所以本项目除主要文件外其他文件全部 Delay 更新，但两份规则文件仍会保持每周更新！**~~  
+~~**终止时间: 2019年2月17日 终止版本号: 1.08-Alpha1-Pre4 （不再继续累加版本，停止同步，但文件持续更新）**~~  
 
-# 武漢加油！Wu Han Chia You！  
+# 河南加油！Hê Nan Chia You！  
 # 中國加油！Chung Kuo Chia You！  
 
 ## 简介

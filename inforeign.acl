@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 540+ Items #
+# Total: 550+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # This is the version for proxy China (Mainland Only) website use
 # In the order of the English initials A-Z of the company name
@@ -25,6 +25,7 @@
 
 (?:^|\.)10010\.com$
 (?:^|\.)10086\.cn$
+(?:^|\.)111\.com$
 (?:^|\.)115\.com$
 (?:^|\.)12306\.cn$
 (?:^|\.)126\.(com|net)$
@@ -42,6 +43,7 @@
 (?:^|\.)2345\.(com|net|org|cn|cc)$
 (?:^|\.)2345cdn\.net$
 (?:^|\.)25pp\.com$
+(?:^|\.)2980\.com$
 (?:^|\.)3304399\.net$
 (?:^|\.)3366\.com$
 (?:^|\.)360\.(com|cn)$
@@ -74,6 +76,7 @@
 (?:^|\.)7k7k\.com$
 (?:^|\.)7k7kimg\.cn$
 (?:^|\.)7k7kjs\.cn$
+(?:^|\.)88\.com$
 (?:^|\.)91\.com$
 (?:^|\.)9game\.cn$
 (?:^|\.)a5\.net$
@@ -102,6 +105,7 @@
 (?:^|\.)amap\.com$
 (?:^|\.)anjuke\.com$
 (?:^|\.)anjukestatic\.com$
+(?:^|\.)appchina\.com$
 (?:^|\.)autohome\.com\.cn$
 (?:^|\.)autoimg\.cn$
 (?:^|\.)autonavi\.com$
@@ -228,6 +232,7 @@
 (?:^|\.)elemecdn\.com$
 (?:^|\.)elong\.com$
 (?:^|\.)elongstatic\.com$
+(?:^|\.)email\.cn$
 (?:^|\.)enet\.com\.cn$
 (?:^|\.)faceu\.com$
 (?:^|\.)fbcontent\.cn$
@@ -305,6 +310,7 @@
 (?:^|\.)jdcloud\.com$
 (?:^|\.)jdcloudcs\.com$
 (?:^|\.)jdpay\.com$
+(?:^|\.)jellow\.site$
 (?:^|\.)jianguoyun\.com$
 (?:^|\.)jianshu\.(com|io)$
 (?:^|\.)jiemian\.com$
@@ -389,6 +395,7 @@
 (?:^|\.)news\.cn$
 (?:^|\.)njcb\.com\.cn$
 (?:^|\.)oceanengine\.com$
+(?:^|\.)okjike\.com$
 (?:^|\.)oneplus\.(com|cn)$
 (?:^|\.)oppo\.com$
 (?:^|\.)opposhop\.cn$
@@ -444,6 +451,7 @@
 (?:^|\.)renren\.com$
 (?:^|\.)rrimg\.com$
 (?:^|\.)ruanmei\.com$
+(?:^|\.)ruguoapp\.com$
 (?:^|\.)sandai\.net$
 (?:^|\.)sankuai\.com$
 (?:^|\.)shuqi\.com$
@@ -521,9 +529,12 @@
 (?:^|\.)wpscdn\.cn$
 (?:^|\.)wuyou\.net$
 (?:^|\.)www\.net\.cn$
+(?:^|\.)xhscdn\.com$
 (?:^|\.)xiachufang\.com$
 (?:^|\.)xiami\.(com|net)$
+(?:^|\.)xiaohongshu\.com$
 (?:^|\.)xiaomi\.(com|net|cn)$
+(?:^|\.)xiaomiyoupin\.com$
 (?:^|\.)xiaonei\.com$
 (?:^|\.)xiaoyuankousuan\.com$
 (?:^|\.)ximalaya\.com$
@@ -533,6 +544,7 @@
 (?:^|\.)xmcdn\.com$
 (?:^|\.)xnimg\.cn$
 (?:^|\.)xueqiu\.com$
+(?:^|\.)xuexi\.cn$
 (?:^|\.)xunfei\.cn$
 (?:^|\.)xunlei\.com$
 (?:^|\.)yangkeduo\.com$

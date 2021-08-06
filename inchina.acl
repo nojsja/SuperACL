@@ -66,6 +66,7 @@
 (?:^|\.)disqus\.com$
 (?:^|\.)disquscdn\.com$
 (?:^|\.)dropbox\.com$
+(?:^|\.)dropboxapi\.com$
 (?:^|\.)dropboxcaptcha\.com$
 (?:^|\.)dropboxstatic\.com$
 (?:^|\.)duck\.com$

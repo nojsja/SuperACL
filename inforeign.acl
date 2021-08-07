@@ -23,8 +23,11 @@
 [bypass_all]
 [proxy_list]
 
+[bypass_all]
+[proxy_list]
 (?:^|\.)10010\.com$
 (?:^|\.)10086\.cn$
+(?:^|\.)11185\.cn$
 (?:^|\.)111\.com$
 (?:^|\.)115\.com$
 (?:^|\.)12306\.cn$
@@ -32,6 +35,7 @@
 (?:^|\.)127\.net$
 (?:^|\.)139\.com$
 (?:^|\.)163\.com$
+(?:^|\.)163yun\.com$
 (?:^|\.)1688\.com$
 (?:^|\.)17173\.com$
 (?:^|\.)17173cdn\.com$
@@ -77,6 +81,7 @@
 (?:^|\.)7k7kimg\.cn$
 (?:^|\.)7k7kjs\.cn$
 (?:^|\.)88\.com$
+(?:^|\.)88cdn\.com$
 (?:^|\.)91\.com$
 (?:^|\.)9game\.cn$
 (?:^|\.)a5\.net$
@@ -148,6 +153,7 @@
 (?:^|\.)cctv\.(com|cn)$
 (?:^|\.)cctvpic\.com$
 (?:^|\.)cdn-go\.cn$
+(?:^|\.)cdntips\.net$
 (?:^|\.)cebbank\.com$
 (?:^|\.)cgbchina\.com\.cn$
 (?:^|\.)changyou\.com$
@@ -167,6 +173,7 @@
 (?:^|\.)cmcm\.com$
 (?:^|\.)cmcmcdn\.com$
 (?:^|\.)cmgame\.com$
+(?:^|\.)cmpassport\.com$
 (?:^|\.)cmread\.com$
 (?:^|\.)cmvideo\.cn$
 (?:^|\.)cnbeta\.com$
@@ -233,14 +240,15 @@
 (?:^|\.)elong\.com$
 (?:^|\.)elongstatic\.com$
 (?:^|\.)email\.cn$
+(?:^|\.)ems\.com\.cn$
 (?:^|\.)enet\.com\.cn$
 (?:^|\.)faceu\.com$
 (?:^|\.)fbcontent\.cn$
+(?:^|\.)fbstatic\.cn$
 (?:^|\.)feishu\.cn$
 (?:^|\.)feishucdn\.com$
 (?:^|\.)feizhu\.com$
 (?:^|\.)fenbi\.com$
-(?:^|\.)fenbistatic\.cn$
 (?:^|\.)fliggy\.com$
 (?:^|\.)flyme\.cn$
 (?:^|\.)focus-img\.cn$
@@ -307,6 +315,8 @@
 (?:^|\.)itsk\.com$
 (?:^|\.)ixigua\.com$
 (?:^|\.)jd\.com$
+(?:^|\.)jdcloud-api\.net$
+(?:^|\.)jdcloud-oss\.com$
 (?:^|\.)jdcloud\.com$
 (?:^|\.)jdcloudcs\.com$
 (?:^|\.)jdpay\.com$
@@ -321,12 +331,15 @@
 (?:^|\.)jrjimg\.cn$
 (?:^|\.)juejin\.(im|cn)$
 (?:^|\.)kanbox\.com$
+(?:^|\.)kanimg\.com$
+(?:^|\.)kankan\.com$
 (?:^|\.)kgimg\.com$
 (?:^|\.)kingsoft\.com$
 (?:^|\.)koubei\.com$
 (?:^|\.)ksapisrv\.com$
 (?:^|\.)kspkg\.com$
 (?:^|\.)ksyun\.com$
+(?:^|\.)ksyungslb\.com$
 (?:^|\.)ku6\.com$
 (?:^|\.)kuaipan\.cn$
 (?:^|\.)kuaishou\.com$
@@ -391,7 +404,7 @@
 (?:^|\.)myquark\.cn$
 (?:^|\.)mzres\.com$
 (?:^|\.)neixin\.cn$
-(?:^|\.)netease\.com$
+(?:^|\.)netease\.(com|im)$
 (?:^|\.)news\.cn$
 (?:^|\.)njcb\.com\.cn$
 (?:^|\.)oceanengine\.com$
@@ -401,6 +414,7 @@
 (?:^|\.)opposhop\.cn$
 (?:^|\.)oray\.(com|net)$
 (?:^|\.)orayimg\.com$
+(?:^|\.)p2cdn\.com$
 (?:^|\.)paipai\.com$
 (?:^|\.)pcauto\.com\.cn$
 (?:^|\.)pcbaby\.com\.cn$
@@ -539,6 +553,7 @@
 (?:^|\.)xiaoyuankousuan\.com$
 (?:^|\.)ximalaya\.com$
 (?:^|\.)xinhuanet\.com$
+(?:^|\.)xinnet\.com$
 (?:^|\.)xishanju\.com$
 (?:^|\.)xiu123\.cn$
 (?:^|\.)xmcdn\.com$
@@ -547,6 +562,7 @@
 (?:^|\.)xuexi\.cn$
 (?:^|\.)xunfei\.cn$
 (?:^|\.)xunlei\.com$
+(?:^|\.)xycdn\.com$
 (?:^|\.)yangkeduo\.com$
 (?:^|\.)yangshipin\.cn$
 (?:^|\.)ybccode\.com$

@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 550+ Items #
+# Total: 610+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # This is the version for proxy China (Mainland Only) website use
 # In the order of the English initials A-Z of the company name
@@ -81,8 +81,10 @@
 (?:^|\.)88\.com$
 (?:^|\.)88cdn\.com$
 (?:^|\.)91\.com$
+(?:^|\.)95516\.com$
 (?:^|\.)9game\.cn$
 (?:^|\.)a5\.net$
+(?:^|\.)a9vg\.com$
 (?:^|\.)abchina\.com$
 (?:^|\.)acfun\.cn$
 (?:^|\.)acg\.tv$
@@ -102,6 +104,7 @@
 (?:^|\.)alipay\.com$
 (?:^|\.)alipayobjects\.com$
 (?:^|\.)aliqin\.cn$
+(?:^|\.)aliyun-inc\.com$
 (?:^|\.)aliyun\.com$
 (?:^|\.)aliyuncs\.com$
 (?:^|\.)aliyundrive\.com$
@@ -113,6 +116,7 @@
 (?:^|\.)autoimg\.cn$
 (?:^|\.)autonavi\.com$
 (?:^|\.)b23\.tv$
+(?:^|\.)baicizhan\.org$
 (?:^|\.)baidu\.com$
 (?:^|\.)baidubce\.com$
 (?:^|\.)baidupcs\.com$
@@ -133,6 +137,7 @@
 (?:^|\.)biliapi\.(com|net)$
 (?:^|\.)bilibili\.com$
 (?:^|\.)biligame\.com$
+(?:^|\.)biligame\.net$
 (?:^|\.)bilivideo\.com$
 (?:^|\.)boc\.cn$
 (?:^|\.)bootcdn\.cn$
@@ -144,6 +149,8 @@
 (?:^|\.)bytescm\.com$
 (?:^|\.)bytetos\.com$
 (?:^|\.)bytexservice\.com$
+(?:^|\.)c-ctrip\.com$
+(?:^|\.)c114\.com\.cn$
 (?:^|\.)cainiao\.com$
 (?:^|\.)caixin\.com$
 (?:^|\.)caiyunapp\.com$
@@ -156,6 +163,8 @@
 (?:^|\.)cgbchina\.com\.cn$
 (?:^|\.)changyou\.com$
 (?:^|\.)chei\.com\.cn$
+(?:^|\.)chelaile\.net\.cn$
+(?:^|\.)chengxinyouxuan\.com$
 (?:^|\.)china\.com$
 (?:^|\.)china\.com\.cn$
 (?:^|\.)chinabank\.com\.cn$
@@ -164,7 +173,9 @@
 (?:^|\.)chsi\.com\.cn$
 (?:^|\.)chuanke\.com$
 (?:^|\.)chuimg\.com$
+(?:^|\.)chumanapp\.com$
 (?:^|\.)cib\.com\.cn$
+(?:^|\.)cibntv\.net$
 (?:^|\.)citicbank\.com$
 (?:^|\.)cmbc\.com\.cn$
 (?:^|\.)cmbchina\.com$
@@ -204,12 +215,16 @@
 (?:^|\.)dcloud\.io$
 (?:^|\.)dcloud\.net\.cn$
 (?:^|\.)ddimg\.cn$
+(?:^|\.)ddky\.com$
 (?:^|\.)dewu\.com$
 (?:^|\.)dianping\.com$
 (?:^|\.)didiglobal\.com$
 (?:^|\.)didistatic\.com$
+(?:^|\.)diditaxi\.com\.cn$
 (?:^|\.)dingtalk\.com$
 (?:^|\.)diskgenius\.cn$
+(?:^|\.)dji\.com$
+(?:^|\.)djicdn\.com$
 (?:^|\.)dnspod\.cn$
 (?:^|\.)docer\.com$
 (?:^|\.)donews\.com$
@@ -254,10 +269,12 @@
 (?:^|\.)focus\.cn$
 (?:^|\.)fun\.tv$
 (?:^|\.)fushion\.com$
+(?:^|\.)g\.com\.cn$
 (?:^|\.)gamedog\.cn$
 (?:^|\.)ganji\.com$
 (?:^|\.)ganjistatic1\.com$
 (?:^|\.)gaode\.com$
+(?:^|\.)geetest\.com$
 (?:^|\.)gfan\.com$
 (?:^|\.)gifshow\.com$
 (?:^|\.)gome\.com\.cn$
@@ -278,11 +295,13 @@
 (?:^|\.)hicloud\.com$
 (?:^|\.)hitv\.com$
 (?:^|\.)hoopchina\.com\.cn$
+(?:^|\.)hpplay\.cn$
 (?:^|\.)hsbank\.com\.cn$
 (?:^|\.)huanqiu\.com$
 (?:^|\.)huanqiucdn\.cn$
 (?:^|\.)huawei\.com$
 (?:^|\.)hunantv\.com$
+(?:^|\.)huolala\.cn$
 (?:^|\.)huorong\.cn$
 (?:^|\.)huoshan\.com$
 (?:^|\.)huoshanzhibo\.com$
@@ -301,6 +320,7 @@
 (?:^|\.)ifengyu\.com$
 (?:^|\.)iflytek\.com$
 (?:^|\.)ijinshan\.com$
+(?:^|\.)infinities\.com\.cn$
 (?:^|\.)ip\.cn$
 (?:^|\.)ipip\.net$
 (?:^|\.)iqiyi\.com$
@@ -323,6 +343,7 @@
 (?:^|\.)jianshu\.(com|io)$
 (?:^|\.)jiemian\.com$
 (?:^|\.)jiguang\.cn$
+(?:^|\.)jingxi\.com$
 (?:^|\.)jpush\.cn$
 (?:^|\.)jrj\.com$
 (?:^|\.)jrj\.com\.cn$
@@ -333,6 +354,8 @@
 (?:^|\.)kankan\.com$
 (?:^|\.)kgimg\.com$
 (?:^|\.)kingsoft\.com$
+(?:^|\.)kkmh\.com$
+(?:^|\.)koowo\.com$
 (?:^|\.)koubei\.com$
 (?:^|\.)ksapisrv\.com$
 (?:^|\.)kspkg\.com$
@@ -367,6 +390,8 @@
 (?:^|\.)luckincoffeecdn\.com$
 (?:^|\.)ludashi\.com$
 (?:^|\.)ly\.com$
+(?:^|\.)mafengwo\.(net|cn)$
+(?:^|\.)manmanbuy\.com$
 (?:^|\.)maoyan\.com$
 (?:^|\.)maxthon\.cn$
 (?:^|\.)meipai\.com$
@@ -384,6 +409,7 @@
 (?:^|\.)migudm\.cn$
 (?:^|\.)migufun\.com$
 (?:^|\.)miguvideo\.com$
+(?:^|\.)mihoyo\.com$
 (?:^|\.)miliao\.com$
 (?:^|\.)miui\.com$
 (?:^|\.)miwifi\.com$
@@ -404,6 +430,7 @@
 (?:^|\.)neixin\.cn$
 (?:^|\.)netease\.(com|im)$
 (?:^|\.)news\.cn$
+(?:^|\.)ngabbs\.com$
 (?:^|\.)njcb\.com\.cn$
 (?:^|\.)oceanengine\.com$
 (?:^|\.)okjike\.com$
@@ -448,6 +475,7 @@
 (?:^|\.)qianxin\.com$
 (?:^|\.)qidian\.com$
 (?:^|\.)qiku\.com$
+(?:^|\.)qingqikeji\.com$
 (?:^|\.)qingting\.fm$
 (?:^|\.)qiniu\.(com|io)$
 (?:^|\.)qiniuapi\.com$
@@ -507,6 +535,7 @@
 (?:^|\.)tencentcs\.com$
 (?:^|\.)tencentmusic\.com$
 (?:^|\.)tenpay\.com$
+(?:^|\.)tgbus\.com$
 (?:^|\.)theworld\.cn$
 (?:^|\.)tianjimedia\.com$
 (?:^|\.)tmall\.com$
@@ -514,9 +543,11 @@
 (?:^|\.)toutiaoimg\.com$
 (?:^|\.)toutiaostatic\.com$
 (?:^|\.)tudou\.com$
+(?:^|\.)txrjy\.com$
 (?:^|\.)uc\.cn$
 (?:^|\.)ucweb\.com$
 (?:^|\.)umeng\.com$
+(?:^|\.)umetrip\.com$
 (?:^|\.)url\.cn$
 (?:^|\.)urlshare\.cn$
 (?:^|\.)vip\.com$
@@ -536,6 +567,7 @@
 (?:^|\.)weiyun\.com$
 (?:^|\.)wo\.cn$
 (?:^|\.)wo\.com\.cn$
+(?:^|\.)wocloud\.cn$
 (?:^|\.)wostore\.cn$
 (?:^|\.)wps\.cn$
 (?:^|\.)wpscdn\.cn$
@@ -545,11 +577,13 @@
 (?:^|\.)xiachufang\.com$
 (?:^|\.)xiami\.(com|net)$
 (?:^|\.)xiaohongshu\.com$
+(?:^|\.)xiaojukeji\.com$
 (?:^|\.)xiaomi\.(com|net|cn)$
 (?:^|\.)xiaomiyoupin\.com$
 (?:^|\.)xiaonei\.com$
 (?:^|\.)xiaoyuankousuan\.com$
 (?:^|\.)ximalaya\.com$
+(?:^|\.)xinhuaapp\.com$
 (?:^|\.)xinhuanet\.com$
 (?:^|\.)xinnet\.com$
 (?:^|\.)xishanju\.com$
@@ -567,6 +601,7 @@
 (?:^|\.)ydstatic\.com$
 (?:^|\.)yeah\.net$
 (?:^|\.)yesky\.com$
+(?:^|\.)yfdurl\.com$
 (?:^|\.)yhd\.com$
 (?:^|\.)ykimg\.com$
 (?:^|\.)youdao\.com$
@@ -580,12 +615,15 @@
 (?:^|\.)yximgs\.com$
 (?:^|\.)yy\.com$
 (?:^|\.)yystatic\.com$
+(?:^|\.)zcool\.com\.cn$
 (?:^|\.)zdmimg\.com$
 (?:^|\.)zhangyue\.com$
 (?:^|\.)zhanqi\.tv$
 (?:^|\.)zhaopin\.(com|cn)$
 (?:^|\.)zhihu\.com$
 (?:^|\.)zhimg\.com$
+(?:^|\.)zhipin\.com$
+(?:^|\.)zhongguowangshi\.com$
 (?:^|\.)zjurl\.cn$
 (?:^|\.)znds\.com$
 (?:^|\.)zol-img\.com\.cn$

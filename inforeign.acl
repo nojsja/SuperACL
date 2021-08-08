@@ -116,7 +116,7 @@
 (?:^|\.)autoimg\.cn$
 (?:^|\.)autonavi\.com$
 (?:^|\.)b23\.tv$
-(?:^|\.)baicizhan\.org$
+(?:^|\.)baicizhan\.(com|org)$
 (?:^|\.)baidu\.com$
 (?:^|\.)baidubce\.com$
 (?:^|\.)baidupcs\.com$
@@ -136,8 +136,7 @@
 (?:^|\.)bdxiguavod\.com$
 (?:^|\.)biliapi\.(com|net)$
 (?:^|\.)bilibili\.com$
-(?:^|\.)biligame\.com$
-(?:^|\.)biligame\.net$
+(?:^|\.)biligame\.(com|net)$
 (?:^|\.)bilivideo\.com$
 (?:^|\.)boc\.cn$
 (?:^|\.)bootcdn\.cn$

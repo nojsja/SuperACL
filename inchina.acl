@@ -98,7 +98,7 @@
 (?:^|\.)githubapp\.com$
 (?:^|\.)githubassets\.com$
 (?:^|\.)githubusercontent\.com$
-(?:^|\.)gitlab\.com$
+(?:^|\.)gitlab\.(com|net)$
 (?:^|\.)gle$
 (?:^|\.)gmail\.com$
 (?:^|\.)golang\.org$

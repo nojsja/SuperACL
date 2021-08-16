@@ -52,6 +52,7 @@
 (?:^|\.)blogger\.com$
 (?:^|\.)blogspot\.(com|tw)$
 (?:^|\.)bloomberg\.com$
+(?:^|\.)byteoversea\.com$
 (?:^|\.)change\.org$
 (?:^|\.)chinatimes\.com$
 (?:^|\.)chrome\.com$
@@ -75,6 +76,7 @@
 (?:^|\.)ebay\.com$
 (?:^|\.)ebayimg\.com$
 (?:^|\.)ebaystatic\.com$
+(?:^|\.)ecfa\.org\.tw$
 (?:^|\.)economist\.com$
 (?:^|\.)espn\.com$
 (?:^|\.)espncdn\.com$
@@ -82,8 +84,10 @@
 (?:^|\.)fandom\.com$
 (?:^|\.)fbcdn\.net$
 (?:^|\.)fc2\.com$
+(?:^|\.)feedburner\.com$
 (?:^|\.)flickr\.com$
 (?:^|\.)flipboard\.com$
+(?:^|\.)forbeschina\.com$
 (?:^|\.)free-ss\.site$
 (?:^|\.)ft\.com$
 (?:^|\.)ftchinese\.com$
@@ -94,6 +98,7 @@
 (?:^|\.)githubapp\.com$
 (?:^|\.)githubassets\.com$
 (?:^|\.)githubusercontent\.com$
+(?:^|\.)gitlab\.com$
 (?:^|\.)gle$
 (?:^|\.)gmail\.com$
 (?:^|\.)golang\.org$
@@ -119,6 +124,8 @@
 (?:^|\.)hbomax\.com$
 (?:^|\.)hket\.com$
 (?:^|\.)huobi\.com$
+(?:^|\.)ibytedtos\.com$
+(?:^|\.)ibyteimg\.com$
 (?:^|\.)imdb\.com$
 (?:^|\.)imgur\.com$
 (?:^|\.)independent\.co\.uk$
@@ -126,9 +133,11 @@
 (?:^|\.)kakao\.com$
 (?:^|\.)kakaocorp\.com$
 (?:^|\.)kmt\.org\.tw$
+(?:^|\.)kwai\.(com|net)$
 (?:^|\.)line-scdn\.net$
 (?:^|\.)line\.me$
 (?:^|\.)linebiz\.com$
+(?:^|\.)linecorp\.com$
 (?:^|\.)live\.com$
 (?:^|\.)mediawiki\.org$
 (?:^|\.)medium\.com$
@@ -136,8 +145,10 @@
 (?:^|\.)mega\.co\.nz$
 (?:^|\.)messenger\.com$
 (?:^|\.)microsoft\.com$
+(?:^|\.)microsoftonline\.com$
 (?:^|\.)mingpao\.com$
 (?:^|\.)mpweekly\.com$
+(?:^|\.)musical\.ly$
 (?:^|\.)myspace\.com$
 (?:^|\.)myspacecdn\.com$
 (?:^|\.)naver\.jp$
@@ -159,6 +170,7 @@
 (?:^|\.)pinterest\.com$
 (?:^|\.)pixiv\.net$
 (?:^|\.)pixnet\.net$
+(?:^|\.)ptt\.cc$
 (?:^|\.)pximg\.net$
 (?:^|\.)quora\.com$
 (?:^|\.)quoracdn\.net$
@@ -173,6 +185,7 @@
 (?:^|\.)sc-cdn\.net$
 (?:^|\.)scdn\.co$
 (?:^|\.)scmp\.com$
+(?:^|\.)shadowsocks\.org$
 (?:^|\.)shopee\.tw$
 (?:^|\.)similarcdn\.com$
 (?:^|\.)similarweb\.com$
@@ -190,17 +203,20 @@
 (?:^|\.)steamstatic\.com$
 (?:^|\.)t\.co$
 (?:^|\.)t\.me$
+(?:^|\.)tap\.io$
 (?:^|\.)telegram\.(org|me)$
 (?:^|\.)telesco\.pe$
 (?:^|\.)tensorflow\.org$
 (?:^|\.)theguardian\.com$
 (?:^|\.)thinkwithgoogle\.com$
 (?:^|\.)tiktok\.com$
+(?:^|\.)tiktokcdn\.com$
 (?:^|\.)tiktokv\.com$
 (?:^|\.)time\.com$
 (?:^|\.)torproject\.org$
 (?:^|\.)ttvnw\.net$
 (?:^|\.)tumblr\.com$
+(?:^|\.)tvbs\.com\.tw$
 (?:^|\.)twimg\.com$
 (?:^|\.)twitch\.tv$
 (?:^|\.)twitchcdn\.net$

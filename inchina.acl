@@ -47,11 +47,13 @@
 (?:^|\.)bbc\.com$
 (?:^|\.)bbci?\.co\.uk$
 (?:^|\.)bcbits\.com$
+(?:^|\.)bilibili\.tv$
 (?:^|\.)bing\.com$
 (?:^|\.)bit\.ly$
 (?:^|\.)blogger\.com$
 (?:^|\.)blogspot\.(com|tw)$
 (?:^|\.)bloomberg\.com$
+(?:^|\.)bstarstatic\.com$
 (?:^|\.)byteoversea\.com$
 (?:^|\.)change\.org$
 (?:^|\.)chinatimes\.com$
@@ -60,6 +62,7 @@
 (?:^|\.)cloudfront\.net$
 (?:^|\.)cna\.com\.tw$
 (?:^|\.)cnn\.com$
+(?:^|\.)curseforge\.com$
 (?:^|\.)dailymail\.co\.uk$
 (?:^|\.)discord\.(com|gg)$
 (?:^|\.)discordapp\.com$
@@ -88,6 +91,7 @@
 (?:^|\.)flickr\.com$
 (?:^|\.)flipboard\.com$
 (?:^|\.)forbeschina\.com$
+(?:^|\.)forgecdn\.net$
 (?:^|\.)free-ss\.site$
 (?:^|\.)ft\.com$
 (?:^|\.)ftchinese\.com$
@@ -146,6 +150,8 @@
 (?:^|\.)messenger\.com$
 (?:^|\.)microsoft\.com$
 (?:^|\.)microsoftonline\.com$
+(?:^|\.)minecraftforge\.net$
+(?:^|\.)minecraftforum\.net$
 (?:^|\.)mingpao\.com$
 (?:^|\.)mpweekly\.com$
 (?:^|\.)musical\.ly$

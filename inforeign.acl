@@ -105,6 +105,7 @@
 (?:^|\.)alibaba\.com$
 (?:^|\.)alibabausercontent\.com$
 (?:^|\.)alicdn\.com$
+(?:^|\.)alicloudccp\.com$
 (?:^|\.)aligames\.com$
 (?:^|\.)alihealth\.cn$
 (?:^|\.)alimama\.com$
@@ -412,6 +413,7 @@
 (?:^|\.)koubei\.com$
 (?:^|\.)ksapisrv\.com$
 (?:^|\.)ksord\.com$
+(?:^|\.)ksosoft\.com$
 (?:^|\.)kspkg\.com$
 (?:^|\.)ksyun\.com$
 (?:^|\.)ksyungslb\.com$

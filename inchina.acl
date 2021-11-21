@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 230+ Items #
+# Total: 260+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # This is the version for proxy foreign website use
 # In the order of the English initials A-Z of the product or brand name 
@@ -36,6 +36,7 @@
 (?:^|\.)ampproject\.org$
 (?:^|\.)android\.com$
 (?:^|\.)apkpure\.com$
+(?:^|\.)apple\.com$
 (?:^|\.)appspot\.com$
 (?:^|\.)aptoide\.com$
 (?:^|\.)archive\.org$
@@ -75,12 +76,14 @@
 (?:^|\.)dropboxstatic\.com$
 (?:^|\.)duck\.com$
 (?:^|\.)duckduckgo\.com$
+(?:^|\.)dw\.com$
 (?:^|\.)ea\.com$
 (?:^|\.)ebay\.com$
 (?:^|\.)ebayimg\.com$
 (?:^|\.)ebaystatic\.com$
 (?:^|\.)ecfa\.org\.tw$
 (?:^|\.)economist\.com$
+(?:^|\.)epicgames\.com$
 (?:^|\.)espn\.com$
 (?:^|\.)espncdn\.com$
 (?:^|\.)facebook\.(com|net)$
@@ -134,6 +137,7 @@
 (?:^|\.)imgur\.com$
 (?:^|\.)independent\.co\.uk$
 (?:^|\.)instagram\.com$
+(?:^|\.)joox\.com$
 (?:^|\.)kakao\.com$
 (?:^|\.)kakaocorp\.com$
 (?:^|\.)kmt\.org\.tw$
@@ -153,6 +157,7 @@
 (?:^|\.)minecraftforge\.net$
 (?:^|\.)minecraftforum\.net$
 (?:^|\.)mingpao\.com$
+(?:^|\.)mozilla\.(com|org)$
 (?:^|\.)mpweekly\.com$
 (?:^|\.)musical\.ly$
 (?:^|\.)myspace\.com$
@@ -232,6 +237,7 @@
 (?:^|\.)ubisoft\.com$
 (?:^|\.)udn\.com$
 (?:^|\.)udn\.com\.tw$
+(?:^|\.)unrealengine\.com$
 (?:^|\.)v2ex\.com$
 (?:^|\.)v2fly\.org$
 (?:^|\.)v2ray\.com$

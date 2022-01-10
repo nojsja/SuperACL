@@ -23,7 +23,6 @@
 [bypass_all]
 [proxy_list]
 
-(?:^|\.)104\.com\.tw$
 (?:^|\.)abc\.xyz$
 (?:^|\.)accuweather\.com$
 (?:^|\.)addthis\.com$
@@ -47,7 +46,6 @@
 (?:^|\.)bandcamp\.com$
 (?:^|\.)bbc\.com$
 (?:^|\.)bbci?\.co\.uk$
-(?:^|\.)bcbits\.com$
 (?:^|\.)bilibili\.tv$
 (?:^|\.)bing\.com$
 (?:^|\.)bit\.ly$
@@ -88,6 +86,7 @@
 (?:^|\.)espncdn\.com$
 (?:^|\.)facebook\.(com|net)$
 (?:^|\.)fandom\.com$
+(?:^|\.)fb\.com$
 (?:^|\.)fbcdn\.net$
 (?:^|\.)fc2\.com$
 (?:^|\.)feedburner\.com$
@@ -160,10 +159,13 @@
 (?:^|\.)mingpao\.com$
 (?:^|\.)mozilla\.(com|org)$
 (?:^|\.)mpweekly\.com$
+(?:^|\.)msnbc\.com$
 (?:^|\.)musical\.ly$
 (?:^|\.)myspace\.com$
 (?:^|\.)myspacecdn\.com$
 (?:^|\.)naver\.jp$
+(?:^|\.)nbc\.com$
+(?:^|\.)nbcnews\.com$
 (?:^|\.)netflix\.com$
 (?:^|\.)newegg\.com$
 (?:^|\.)neweggimages\.com$
@@ -193,11 +195,12 @@
 (?:^|\.)reuters\.com$
 (?:^|\.)rfi\.fr$
 (?:^|\.)rthk\.hk$
+(?:^|\.)s-nbcnews\.com$
 (?:^|\.)s3\.amazonaws\.com$
 (?:^|\.)sc-cdn\.net$
 (?:^|\.)scdn\.co$
 (?:^|\.)scmp\.com$
-(?:^|\.)shadowsocks\.org$
+(?:^|\.)sf\.net$
 (?:^|\.)shopee\.tw$
 (?:^|\.)similarcdn\.com$
 (?:^|\.)similarweb\.com$
@@ -206,6 +209,7 @@
 (?:^|\.)snapchat\.com$
 (?:^|\.)sndcdn\.com$
 (?:^|\.)soundcloud\.com$
+(?:^|\.)sourceforge\.net$
 (?:^|\.)spotify\.com$
 (?:^|\.)spotifycdn\.com$
 (?:^|\.)startpage\.com$

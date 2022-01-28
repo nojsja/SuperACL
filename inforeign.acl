@@ -15,7 +15,7 @@
 #        Web: https://powerfulweb.nciyuan.net                   #
 #        Project: https://github.com/Windelight/SuperACL        #
 #-–-–-–-–-–-–-–-–-–-+–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–-–+
-# Total: 710+ Items #
+# Total: 740+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # This is the version for proxy China (Mainland Only) website use
 # In the order of the English initials A-Z of the company name
@@ -661,8 +661,7 @@
 (?:^|\.)uc\.cn$
 (?:^|\.)ucfly\.com$
 (?:^|\.)ucweb\.com$
-(?:^|\.)uczzd\.cn$
-(?:^|\.)uczzd\.com$
+(?:^|\.)uczzd\.(com|cn)$
 (?:^|\.)ulikecam\.com$
 (?:^|\.)umeng\.com$
 (?:^|\.)umengcloud\.com$

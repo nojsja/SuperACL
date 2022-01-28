@@ -18,7 +18,7 @@
 # Total: 260+ Items #
 #-–-–-–-–-–-–-–-–-–-+
 # This is the version for proxy foreign website use
-# In the order of the English initials A-Z of the product or brand name 
+# In the order of the English initials A-Z of the product or brand name
 
 [bypass_all]
 [proxy_list]
@@ -54,6 +54,7 @@
 (?:^|\.)bloomberg\.com$
 (?:^|\.)bstarstatic\.com$
 (?:^|\.)byteoversea\.com$
+(?:^|\.)cdninstagram\.com$
 (?:^|\.)change\.org$
 (?:^|\.)chinatimes\.com$
 (?:^|\.)chrome\.com$
@@ -289,3 +290,4 @@
 (?:^|\.)youtube\.com$
 (?:^|\.)ytimg\.com$
 (?:^|\.)zoom\.us$
+

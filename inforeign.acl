@@ -471,8 +471,7 @@
 (?:^|\.)ljcdn\.com$
 (?:^|\.)lofter\.com$
 (?:^|\.)longzhu\.com$
-(?:^|\.)luckincoffee\.co$
-(?:^|\.)luckincoffee\.com$
+(?:^|\.)luckincoffee\.(com|co)$
 (?:^|\.)luckincoffeecdn\.com$
 (?:^|\.)ludashi\.com$
 (?:^|\.)ly\.com$
@@ -579,8 +578,7 @@
 (?:^|\.)qhres\.com$
 (?:^|\.)qianqian\.com$
 (?:^|\.)qianxin\.com$
-(?:^|\.)qichacha\.com$
-(?:^|\.)qichacha\.net$
+(?:^|\.)qichacha\.(com|net)$
 (?:^|\.)qidian\.com$
 (?:^|\.)qihucdn\.com$
 (?:^|\.)qiku\.com$

@@ -268,6 +268,7 @@
 (?:^|\.)wikiquote\.org$
 (?:^|\.)wikisource\.org$
 (?:^|\.)wikiversity\.org$
+(?:^|\.)wikivoyage\.org$
 (?:^|\.)windows\.(com|net)$
 (?:^|\.)withgoogle\.com$
 (?:^|\.)wordpress\.(com|org)$
@@ -282,7 +283,7 @@
 (?:^|\.)xn--gogl-1nd42e\.com$
 (?:^|\.)xn--ngstr-lra8j\.com$
 (?:^|\.)yahoo\.(com|net)$
-(?:^|\.)yahoo\.com$
+(?:^|\.)yahoo\.co\.jp$
 (?:^|\.)yahoo\.com\.tw$
 (?:^|\.)yelp\.com$
 (?:^|\.)yelpcdn\.com$

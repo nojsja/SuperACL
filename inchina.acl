@@ -129,6 +129,7 @@
 (?:^|\.)gvt[0-5]\.com$
 (?:^|\.)hbo\.com$
 (?:^|\.)hbomax\.com$
+(?:^|\.)hcaptcha\.com$
 (?:^|\.)hket\.com$
 (?:^|\.)huobi\.com$
 (?:^|\.)i-scmp\.com$
@@ -160,6 +161,7 @@
 (?:^|\.)mingpao\.com$
 (?:^|\.)mozilla\.(com|org)$
 (?:^|\.)mpweekly\.com$
+(?:^|\.)msn\.com$
 (?:^|\.)msnbc\.com$
 (?:^|\.)musical\.ly$
 (?:^|\.)myspace\.com$
@@ -177,6 +179,7 @@
 (?:^|\.)nytimes\.com$
 (?:^|\.)office\.(com|net)$
 (?:^|\.)optimizely\.com$
+(?:^|\.)oracle\.com$
 (?:^|\.)origin\.com$
 (?:^|\.)picasa\.com$
 (?:^|\.)picasaweb\.com$
@@ -265,7 +268,7 @@
 (?:^|\.)wikiquote\.org$
 (?:^|\.)wikisource\.org$
 (?:^|\.)wikiversity\.org$
-(?:^|\.)wikivoyage\.org$
+(?:^|\.)windows\.(com|net)$
 (?:^|\.)withgoogle\.com$
 (?:^|\.)wordpress\.(com|org)$
 (?:^|\.)wp\.(com|me)$
@@ -278,7 +281,7 @@
 (?:^|\.)xn--gogl-0nd52e\.com$
 (?:^|\.)xn--gogl-1nd42e\.com$
 (?:^|\.)xn--ngstr-lra8j\.com$
-(?:^|\.)yahoo\.co\.jp$
+(?:^|\.)yahoo\.(com|net)$
 (?:^|\.)yahoo\.com$
 (?:^|\.)yahoo\.com\.tw$
 (?:^|\.)yelp\.com$
@@ -290,4 +293,3 @@
 (?:^|\.)youtube\.com$
 (?:^|\.)ytimg\.com$
 (?:^|\.)zoom\.us$
-

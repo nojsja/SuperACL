@@ -254,6 +254,7 @@
 (?:^|\.)vimeo\.com$
 (?:^|\.)vimeocdn\.com$
 (?:^|\.)viu\.tv$
+(?:^|\.)vscode\.dev$
 (?:^|\.)w\.org$
 (?:^|\.)warnermediacdn\.com$
 (?:^|\.)washingtonpost\.com$
